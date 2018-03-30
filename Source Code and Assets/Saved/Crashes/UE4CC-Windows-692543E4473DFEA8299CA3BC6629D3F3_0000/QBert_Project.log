@@ -1,0 +1,1201 @@
+﻿Log file open, 02/12/18 20:03:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: QBert_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-769056238) SRandInit(-769056238).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.576777
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.13-01.03.43:575][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-01.03.43:575][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.13-01.03.43:605][  0]LogInit: Computer: DESKTOP-G1MUSF7
+[2018.02.13-01.03.43:605][  0]LogInit: User: spawn
+[2018.02.13-01.03.43:605][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.13-01.03.43:605][  0]LogInit: High frequency timer resolution =3.234371 MHz
+[2018.02.13-01.03.43:605][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.13-01.03.43:605][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.13-01.03.43:605][  0]LogMemory: Process Physical Memory: 283.40 MB used, 283.40 MB peak
+[2018.02.13-01.03.43:605][  0]LogMemory: Process Virtual Memory: 284.91 MB used, 284.91 MB peak
+[2018.02.13-01.03.43:605][  0]LogMemory: Physical Memory: 6696.07 MB used,  9549.73 MB free, 16245.80 MB total
+[2018.02.13-01.03.43:605][  0]LogMemory: Virtual Memory: 729.34 MB used,  9549.73 MB free, 134217728.00 MB total
+[2018.02.13-01.03.44:209][  0]LogInit: Using OS detected language (en-US).
+[2018.02.13-01.03.44:209][  0]LogInit: Using OS detected locale (en-CA).
+[2018.02.13-01.03.44:581][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.13-01.03.47:951][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.13-01.03.48:000][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.02.13-01.03.48:000][  0]LogD3D11RHI:       4058/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.02.13-01.03.48:019][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.02.13-01.03.48:019][  0]LogD3D11RHI:       128/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.13-01.03.48:024][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.13-01.03.48:024][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.13-01.03.48:024][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.13-01.03.48:032][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.13-01.03.48:032][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.13-01.03.48:032][  0]LogWindows: EnumDisplayDevices:
+[2018.02.13-01.03.48:032][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.02.13-01.03.48:032][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.02.13-01.03.48:032][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.02.13-01.03.48:032][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.02.13-01.03.48:032][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.02.13-01.03.48:033][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.13-01.03.48:033][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.13-01.03.48:033][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.13-01.03.48:033][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.02.13-01.03.48:033][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.13-01.03.48:033][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.13-01.03.48:033][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.13-01.03.48:062][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.13-01.03.48:124][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.13-01.03.48:282][  0]LogShaderCompilers: Guid format shader working directory is -64 characters bigger than the processId version (C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Intermediate/Shaders/WorkingDirectory/4704/).
+[2018.02.13-01.03.48:283][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/spawn/AppData/Local/Temp/UnrealShaderWorkingDir/02CE94B84DF1EC19E61F98A3CFACCB00/'.
+[2018.02.13-01.03.48:283][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.13-01.03.51:090][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.13-01.03.51:162][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.13-01.03.51:233][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.13-01.03.51:305][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.13-01.03.51:446][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.13-01.03.51:518][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.13-01.03.51:589][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.13-01.03.51:660][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.13-01.03.51:724][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.13-01.03.51:860][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.13-01.03.51:931][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.13-01.03.52:002][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.13-01.03.52:071][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.13-01.03.52:141][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.13-01.03.52:211][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.13-01.03.52:351][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.13-01.03.52:351][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.13-01.03.52:410][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.13-01.03.52:610][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.13-01.03.52:641][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.13-01.03.52:711][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.13-01.03.52:780][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.13-01.03.52:850][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.13-01.03.52:922][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.13-01.03.52:922][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.13-01.03.54:149][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.13-01.03.54:643][  0]LogDerivedDataCache: Loaded boot cache 0.49s 93MB C:/Users/spawn/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.13-01.03.54:643][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/spawn/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.13-01.03.54:643][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.13-01.03.54:643][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.13-01.03.54:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.13-01.03.54:644][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.13-01.03.54:709][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.13-01.03.54:724][  0]LogDerivedDataCache: Using Local data cache path C:/Users/spawn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.13-01.03.54:733][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.13-01.03.54:733][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.13-01.03.54:809][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-01.03.54:809][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-01.04.00:255][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.02.13-01.04.00:493][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-01.04.01:377][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.13-01.04.02:492][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.13-01.04.02:550][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.13-01.04.02:550][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.13-01.04.02:550][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.13-01.04.02:550][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.13-01.04.02:550][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.13-01.04.03:534][  0]LogNetVersion: QBert_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 34418127)
+[2018.02.13-01.04.04:002][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.117973 seconds
+[2018.02.13-01.04.04:008][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.13-01.04.04:008][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.13-01.04.04:018][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.13-01.04.04:084][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.13-01.04.19:394][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.13-01.04.19:454][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.13-01.04.20:247][  0]Loaded sprite inside if
+[2018.02.13-01.04.20:787][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.13-01.04.21:524][  0]SourceControl: Source control is disabled
+[2018.02.13-01.04.21:524][  0]SourceControl: Source control is disabled
+[2018.02.13-01.04.21:622][  0]SourceControl: Source control is disabled
+[2018.02.13-01.04.21:708][  0]SourceControl: Source control is disabled
+[2018.02.13-01.04.22:998][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.13-01.04.23:424][  0]LogOcInput: OculusInput pre-init called
+[2018.02.13-01.04.23:910][  0]LogEngine: Initializing Engine...
+[2018.02.13-01.04.24:470][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.02.13-01.04.26:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.13-01.04.26:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.13-01.04.26:279][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.13-01.04.26:324][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.04.26:353][  0]LogInit: FAudioDevice initialized.
+[2018.02.13-01.04.26:477][  0]LogDerivedDataCache: Saved boot cache 0.12s 96MB C:/Users/spawn/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.13-01.04.26:486][  0]LogInit: Texture streaming: Enabled
+[2018.02.13-01.04.26:613][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.13-01.04.27:381][  0]LogInit: Transaction tracking system initialized
+[2018.02.13-01.04.27:937][  0]BlueprintLog: New page: Editor Load
+[2018.02.13-01.04.29:308][  0]LocalizationService: Localization service is disabled
+[2018.02.13-01.04.30:137][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.13-01.04.30:138][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.13-01.04.30:138][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.02.13-01.04.30:465][  0]LogConsoleResponse: Display: 
+[2018.02.13-01.04.31:035][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.13-01.04.31:035][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.13-01.04.31:035][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.13-01.04.31:695][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/' took 0.02s
+[2018.02.13-01.04.31:988][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Sphere'
+[2018.02.13-01.04.31:988][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Sphere'
+[2018.02.13-01.04.31:988][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2018.02.13-01.04.32:928][  0]SourceControl: Source control is disabled
+[2018.02.13-01.04.32:939][  0]LightingResults: New page: Lighting Build
+[2018.02.13-01.04.33:005][  0]MapCheck: New page: Map Check
+[2018.02.13-01.04.33:005][  0]LightingResults: New page: Lighting Build
+[2018.02.13-01.04.33:019][  0]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.04.33:020][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.13-01.04.33:030][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.13-01.04.33:143][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113.199ms to complete.
+[2018.02.13-01.04.33:143][  0]LogFileHelpers: Loading map 'MainLevel' took 0.216
+[2018.02.13-01.04.33:609][  0]LogCollectionManager: Loaded 0 collections in 0.002184 seconds
+[2018.02.13-01.04.33:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Collections/' took 0.01s
+[2018.02.13-01.04.33:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/Developers/spawn/Collections/' took 0.01s
+[2018.02.13-01.04.33:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/Collections/' took 0.01s
+[2018.02.13-01.04.33:740][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.13-01.04.33:752][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2389 classes and 502 folders.
+[2018.02.13-01.04.33:848][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0044 seconds. Added 0 classes and 0 folders.
+[2018.02.13-01.04.34:695][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0048 seconds. Added 0 classes and 0 folders.
+[2018.02.13-01.04.34:771][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0045 seconds. Added 1 classes and 2 folders.
+[2018.02.13-01.04.34:816][  0]LogSlate: Took 0.001446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.13-01.04.34:835][  0]LogSlate: Took 0.017918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.13-01.04.34:850][  0]LogSlate: Took 0.010520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.13-01.04.34:975][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.13-01.04.35:181][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0047 seconds. Added 1 classes and 2 folders.
+[2018.02.13-01.04.35:181][  0]LogLoad: (Engine Initialization) Total time: 61.42 seconds
+[2018.02.13-01.04.35:181][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.13-01.04.35:181][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.13-01.04.35:181][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.13-01.04.35:206][  0]LogAssetRegistry: Asset discovery search completed in 34.9749 seconds
+[2018.02.13-01.04.35:208][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.13-01.04.35:208][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.02.13-01.04.35:211][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.13-01.04.35:268][  0]LogSlate: Took 0.000706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-01.06.40:015][933]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-01.07.12:953][ 51]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.13-01.07.16:794][ 52]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.13-01.07.18:406][ 53]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Source/QBert_Project/Cube.h'
+[2018.02.13-01.07.18:585][ 53]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Source/QBert_Project/Cube.cpp'
+[2018.02.13-01.07.34:522][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.07.35:130][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.07.35:204][ 92]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:07:35 PM)
+[2018.02.13-01.07.35:223][ 92]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.07.35:291][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068094s)
+[2018.02.13-01.07.35:292][ 92]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.07.35:292][ 92]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.02.13-01.07.35:304][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.090780s)
+[2018.02.13-01.07.35:342][ 92]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.07.35:362][ 92]LogInit: FAudioDevice initialized.
+[2018.02.13-01.07.35:438][ 92]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.02.13-01.07.35:439][ 92]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.02.13-01.07.35:439][ 92]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C'
+[2018.02.13-01.07.35:439][ 92]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.07.35:604][ 92]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.07.35
+[2018.02.13-01.07.35:654][ 92]LogWorld: Bringing up level for play took: 0.050710
+[2018.02.13-01.07.35:909][ 92]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0048 seconds. Added 11 classes and 0 folders.
+[2018.02.13-01.07.35:977][ 92]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.819
+[2018.02.13-01.07.51:529][872]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.07.51:544][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.07.51:544][872]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:07:51 PM)
+[2018.02.13-01.07.51:544][872]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.07.51:545][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000688s)
+[2018.02.13-01.07.51:545][872]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.07.51:545][872]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.02.13-01.07.51:546][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001554s)
+[2018.02.13-01.07.51:582][872]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.07.51:602][872]LogInit: FAudioDevice initialized.
+[2018.02.13-01.07.51:639][872]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.07.51:640][872]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.07.51
+[2018.02.13-01.07.51:641][872]LogWorld: Bringing up level for play took: 0.000810
+[2018.02.13-01.07.51:642][872]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.483
+[2018.02.13-01.08.06:364][602]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.08.06:380][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.08.06:380][602]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:08:06 PM)
+[2018.02.13-01.08.06:380][602]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.08.06:381][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000706s)
+[2018.02.13-01.08.06:382][602]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.08.06:382][602]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2018.02.13-01.08.06:382][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001575s)
+[2018.02.13-01.08.06:418][602]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.08.06:437][602]LogInit: FAudioDevice initialized.
+[2018.02.13-01.08.06:469][602]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.08.06:470][602]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.08.06
+[2018.02.13-01.08.06:470][602]LogWorld: Bringing up level for play took: 0.000754
+[2018.02.13-01.08.06:471][602]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.687
+[2018.02.13-01.09.53:801][839]LogSlate: Took 0.014949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.13-01.15.18:444][309]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.15.18:457][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.15.18:458][309]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:15:18 PM)
+[2018.02.13-01.15.18:458][309]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.15.18:459][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000925s)
+[2018.02.13-01.15.18:459][309]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.15.18:459][309]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.02.13-01.15.18:459][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001854s)
+[2018.02.13-01.15.18:527][309]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.15.18:547][309]LogInit: FAudioDevice initialized.
+[2018.02.13-01.15.18:580][309]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.15.18:581][309]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.15.18
+[2018.02.13-01.15.18:581][309]LogWorld: Bringing up level for play took: 0.000788
+[2018.02.13-01.15.18:582][309]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.576
+[2018.02.13-01.15.22:173][720]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.17.25:622][  7]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.17.25:636][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.17.25:636][  7]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:17:25 PM)
+[2018.02.13-01.17.25:636][  7]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.17.25:637][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000850s)
+[2018.02.13-01.17.25:637][  7]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.17.25:638][  7]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2018.02.13-01.17.25:638][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001787s)
+[2018.02.13-01.17.25:699][  7]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.17.25:719][  7]LogInit: FAudioDevice initialized.
+[2018.02.13-01.17.25:753][  7]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.17.25:754][  7]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.17.25
+[2018.02.13-01.17.25:755][  7]LogWorld: Bringing up level for play took: 0.000700
+[2018.02.13-01.17.25:756][  7]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.597
+[2018.02.13-01.17.43:341][  6]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.17.43:355][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.17.43:356][  6]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:17:43 PM)
+[2018.02.13-01.17.43:356][  6]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.17.43:357][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000891s)
+[2018.02.13-01.17.43:357][  6]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.17.43:357][  6]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2018.02.13-01.17.43:357][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001755s)
+[2018.02.13-01.17.43:420][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.17.43:438][  6]LogInit: FAudioDevice initialized.
+[2018.02.13-01.17.43:472][  6]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.17.43:473][  6]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.17.43
+[2018.02.13-01.17.43:473][  6]LogWorld: Bringing up level for play took: 0.000718
+[2018.02.13-01.17.43:474][  6]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.316
+[2018.02.13-01.18.32:280][568]LogEditorViewport: Clicking on Actor (context menu): CameraActor (CameraActor)
+[2018.02.13-01.18.33:817][681]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.18.33:830][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.18.33:831][681]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:18:33 PM)
+[2018.02.13-01.18.33:831][681]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.18.33:832][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000869s)
+[2018.02.13-01.18.33:832][681]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.18.33:832][681]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2018.02.13-01.18.33:832][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001796s)
+[2018.02.13-01.18.33:896][681]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.18.33:914][681]LogInit: FAudioDevice initialized.
+[2018.02.13-01.18.33:950][681]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.18.33:951][681]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.18.33
+[2018.02.13-01.18.33:951][681]LogWorld: Bringing up level for play took: 0.000763
+[2018.02.13-01.18.33:952][681]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.794
+[2018.02.13-01.18.39:732][329]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.18.39:746][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.18.39:746][329]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:18:39 PM)
+[2018.02.13-01.18.39:746][329]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.18.39:747][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000957s)
+[2018.02.13-01.18.39:748][329]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.18.39:748][329]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2018.02.13-01.18.39:748][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001825s)
+[2018.02.13-01.18.39:810][329]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.18.39:829][329]LogInit: FAudioDevice initialized.
+[2018.02.13-01.18.39:863][329]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.18.39:864][329]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.18.39
+[2018.02.13-01.18.39:865][329]LogWorld: Bringing up level for play took: 0.000732
+[2018.02.13-01.18.39:866][329]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.707
+[2018.02.13-01.18.53:068][835]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.18.53:082][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.18.53:082][835]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:18:53 PM)
+[2018.02.13-01.18.53:082][835]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.18.53:083][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2018.02.13-01.18.53:083][835]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.18.53:084][835]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.02.13-01.18.53:084][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001798s)
+[2018.02.13-01.18.53:146][835]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.18.53:164][835]LogInit: FAudioDevice initialized.
+[2018.02.13-01.18.53:199][835]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.18.53:200][835]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.18.53
+[2018.02.13-01.18.53:200][835]LogWorld: Bringing up level for play took: 0.000677
+[2018.02.13-01.18.53:201][835]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.042
+[2018.02.13-01.19.32:824][400]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.19.32:838][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.19.32:839][400]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:19:32 PM)
+[2018.02.13-01.19.32:839][400]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.19.32:840][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000903s)
+[2018.02.13-01.19.32:840][400]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.19.32:840][400]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.02.13-01.19.32:840][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001845s)
+[2018.02.13-01.19.32:904][400]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.19.32:923][400]LogInit: FAudioDevice initialized.
+[2018.02.13-01.19.32:957][400]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.19.32:958][400]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.19.32
+[2018.02.13-01.19.32:958][400]LogWorld: Bringing up level for play took: 0.000671
+[2018.02.13-01.19.32:959][400]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.199
+[2018.02.13-01.19.40:317][264]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.20.06:494][330]LogEditorViewport: Clicking on Actor (LMB): Cube (Cube3)
+[2018.02.13-01.20.14:986][336]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.21.28:774][764]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-01.21.37:845][717]LogSavePackage: Save=15.26ms
+[2018.02.13-01.21.37:845][717]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/MainLevel_Auto143E8F03541758EE40D470D9D343E1ED8.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Autosaves/Game/QBertFolders/Level/MainLevel_Auto1.umap'
+[2018.02.13-01.21.37:851][717]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Autosaves/Game/QBertFolders/Level/MainLevel_Auto1.umap
+[2018.02.13-01.21.37:856][717]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/QBertFolders/Level/MainLevel' took 0.056
+[2018.02.13-01.21.37:856][717]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2018.02.13-01.24.28:756][138]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.24.28:840][145]LogEditorViewport: Clicking on Component (LMB): CameraComponent (CameraComponent)
+[2018.02.13-01.26.47:384][682]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.26.47:398][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.26.47:398][682]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:26:47 PM)
+[2018.02.13-01.26.47:399][682]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.26.47:400][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001397s)
+[2018.02.13-01.26.47:401][682]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.26.47:401][682]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2018.02.13-01.26.47:402][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002581s)
+[2018.02.13-01.26.47:468][682]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.26.47:487][682]LogInit: FAudioDevice initialized.
+[2018.02.13-01.26.47:522][682]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.26.47:523][682]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.26.47
+[2018.02.13-01.26.47:523][682]LogWorld: Bringing up level for play took: 0.000762
+[2018.02.13-01.26.47:524][682]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.366
+[2018.02.13-01.27.04:780][591]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.27.04:794][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.27.04:794][591]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:27:04 PM)
+[2018.02.13-01.27.04:794][591]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.27.04:795][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000920s)
+[2018.02.13-01.27.04:795][591]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.27.04:795][591]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2018.02.13-01.27.04:796][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001808s)
+[2018.02.13-01.27.04:831][591]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.27.04:850][591]LogInit: FAudioDevice initialized.
+[2018.02.13-01.27.04:885][591]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.27.04:886][591]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.27.04
+[2018.02.13-01.27.04:886][591]LogWorld: Bringing up level for play took: 0.000762
+[2018.02.13-01.27.04:887][591]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.271
+[2018.02.13-01.27.09:665][155]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.02.13-01.27.10:741][279]Cmd: DELETE
+[2018.02.13-01.27.10:741][279]Cmd: ACTOR DELETE
+[2018.02.13-01.27.10:741][279]LogEditorActor: Deleted Actor: PointLight
+[2018.02.13-01.27.10:750][279]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.02.13-01.27.12:321][466]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.28.31:579][244]LogEditorViewport: Clicking Background
+[2018.02.13-01.28.32:704][375]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.29.06:411][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.29.06:425][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.29.06:425][ 37]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:29:06 PM)
+[2018.02.13-01.29.06:425][ 37]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.29.06:426][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000874s)
+[2018.02.13-01.29.06:426][ 37]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.29.06:426][ 37]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2018.02.13-01.29.06:427][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001808s)
+[2018.02.13-01.29.06:492][ 37]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.29.06:511][ 37]LogInit: FAudioDevice initialized.
+[2018.02.13-01.29.06:545][ 37]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.29.06:546][ 37]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.29.06
+[2018.02.13-01.29.06:547][ 37]LogWorld: Bringing up level for play took: 0.000683
+[2018.02.13-01.29.06:548][ 37]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.611
+[2018.02.13-01.29.10:218][459]LogEditorViewport: Clicking on Actor (LMB): Cube (Cube3)
+[2018.02.13-01.29.14:425][948]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.29.36:283][509]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.29.36:297][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.29.36:297][509]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:29:36 PM)
+[2018.02.13-01.29.36:297][509]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.29.36:298][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000876s)
+[2018.02.13-01.29.36:299][509]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.29.36:299][509]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2018.02.13-01.29.36:299][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001738s)
+[2018.02.13-01.29.36:366][509]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.29.36:385][509]LogInit: FAudioDevice initialized.
+[2018.02.13-01.29.36:420][509]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.29.36:421][509]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.29.36
+[2018.02.13-01.29.36:421][509]LogWorld: Bringing up level for play took: 0.000680
+[2018.02.13-01.29.36:422][509]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.737
+[2018.02.13-01.29.41:928][141]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.29.41:942][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.29.41:942][141]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:29:41 PM)
+[2018.02.13-01.29.41:942][141]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.29.41:943][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000987s)
+[2018.02.13-01.29.41:944][141]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.29.41:944][141]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2018.02.13-01.29.41:944][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001929s)
+[2018.02.13-01.29.42:009][141]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.29.42:027][141]LogInit: FAudioDevice initialized.
+[2018.02.13-01.29.42:062][141]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.29.42:063][141]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.29.42
+[2018.02.13-01.29.42:063][141]LogWorld: Bringing up level for play took: 0.000699
+[2018.02.13-01.29.42:064][141]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.906
+[2018.02.13-01.29.47:968][829]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.30.11:650][526]LogEditorViewport: Clicking on Component (LMB): CameraComponent (CameraComponent)
+[2018.02.13-01.30.50:005][ 86]LogEditorViewport: Clicking on Actor (LMB): Cube (Cube3)
+[2018.02.13-01.31.29:838][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.31.29:851][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.31.29:852][740]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:31:29 PM)
+[2018.02.13-01.31.29:852][740]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.31.29:853][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000926s)
+[2018.02.13-01.31.29:853][740]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.31.29:854][740]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2018.02.13-01.31.29:854][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002016s)
+[2018.02.13-01.31.29:889][740]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.31.29:909][740]LogInit: FAudioDevice initialized.
+[2018.02.13-01.31.29:940][740]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.31.29:942][740]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.31.29
+[2018.02.13-01.31.29:942][740]LogWorld: Bringing up level for play took: 0.000809
+[2018.02.13-01.31.29:943][740]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.785
+[2018.02.13-01.31.33:318][135]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.31.44:049][294]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.31.44:063][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.31.44:063][294]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:31:44 PM)
+[2018.02.13-01.31.44:063][294]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.31.44:064][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000936s)
+[2018.02.13-01.31.44:065][294]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.31.44:065][294]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2018.02.13-01.31.44:065][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001816s)
+[2018.02.13-01.31.44:131][294]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.31.44:150][294]LogInit: FAudioDevice initialized.
+[2018.02.13-01.31.44:185][294]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.31.44:186][294]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.31.44
+[2018.02.13-01.31.44:186][294]LogWorld: Bringing up level for play took: 0.000685
+[2018.02.13-01.31.44:187][294]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 1.029
+[2018.02.13-01.32.13:107][471]LogSlate: Took 0.050589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.13-01.32.17:572][  5]LogEditorViewport: Clicking Background
+[2018.02.13-01.32.18:393][103]LogEditorViewport: Clicking Background
+[2018.02.13-01.32.18:752][146]LogEditorViewport: Clicking Background
+[2018.02.13-01.32.31:857][664]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.32.31:871][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.32.31:871][664]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:32:31 PM)
+[2018.02.13-01.32.31:871][664]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.32.31:872][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000973s)
+[2018.02.13-01.32.31:873][664]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.32.31:873][664]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.02.13-01.32.31:873][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001936s)
+[2018.02.13-01.32.31:911][664]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.32.31:930][664]LogInit: FAudioDevice initialized.
+[2018.02.13-01.32.31:963][664]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.32.31:964][664]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.32.31
+[2018.02.13-01.32.31:964][664]LogWorld: Bringing up level for play took: 0.000686
+[2018.02.13-01.32.31:965][664]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.807
+[2018.02.13-01.33.06:766][621]Cmd: SELECT NONE
+[2018.02.13-01.33.14:569][532]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.33.27:354][814]Cmd: ACTOR SELECT OFCLASS CLASS=CameraActor
+[2018.02.13-01.33.36:947][563]LogEditorViewport: Clicking Background
+[2018.02.13-01.33.37:954][683]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.02.13-01.33.44:172][386]LogSavePackage: Save=15.44ms
+[2018.02.13-01.33.44:172][386]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/MainLevelCCC340EA41000A400408EE90001C6B00.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Level/MainLevel.umap'
+[2018.02.13-01.33.44:184][386]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Level/MainLevel.umap
+[2018.02.13-01.33.50:153][791]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.QBertProject
+[2018.02.13-01.33.50:153][791]LogTemp: CWD: D:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.02.13-01.33.50:153][791]LogTemp: Initial Dir: D:\Unreal Engine\UE_4.17
+[2018.02.13-01.33.50:153][791]LogTemp: Env CWD: D:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.02.13-01.33.50:153][791]LogTemp: BranchPath = DESKTOP-G1MUSF7/D/Unreal Engine/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-G1MUSF7/D/Unreal Engine/UE_4.17/Engine/Binaries
+[2018.02.13-01.33.50:181][794]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\spawn\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.02.13-01.35.49:840][864]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.13-01.35.49:849][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:850][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:850][864]LoadErrors: Error: /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap : Can't find file for asset. /Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter
+[2018.02.13-01.35.49:850][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:851][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:851][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:851][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:852][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.02.13-01.35.49:852][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:852][864]LoadErrors: Error: /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap : Can't find file for asset. /Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode
+[2018.02.13-01.35.49:853][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:853][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:853][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:854][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:854][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:854][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:943][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.13-01.35.49:943][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:943][864]LoadErrors: Error: /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap : Can't find file for asset. /Game/2DSideScroller/Sprites/Background_Sprite
+[2018.02.13-01.35.49:943][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.49:944][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:944][864]LoadErrors: Error: /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap : Can't find file for asset. /Game/2DSideScroller/Sprites/Ledge
+[2018.02.13-01.35.49:944][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:945][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:945][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.02.13-01.35.49:945][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:946][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:946][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:946][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.13-01.35.49:947][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:947][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.49:947][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:948][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:948][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.13-01.35.49:950][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:950][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:951][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:951][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:951][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:952][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:952][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.02.13-01.35.49:952][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode' while loading NULL.
+[2018.02.13-01.35.49:953][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:953][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:953][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:954][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:954][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:954][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:955][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.13-01.35.49:955][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading NULL.
+[2018.02.13-01.35.49:955][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.49:955][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.49:956][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:956][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:956][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.02.13-01.35.49:957][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode' while loading NULL.
+[2018.02.13-01.35.49:957][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:957][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:958][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.13-01.35.49:958][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading NULL.
+[2018.02.13-01.35.49:958][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.49:959][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.49:959][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:959][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:980][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:980][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:980][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:981][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:989][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:989][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:990][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:990][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:991][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:991][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:992][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:992][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:992][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:993][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:993][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:993][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:994][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:994][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.49:994][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.49:995][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.50:009][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.50:009][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.50:010][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.50:010][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.50:011][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.50:012][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.50:012][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.50:012][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.50:014][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.50:014][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.50:015][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.13-01.35.50:015][864]LoadErrors: Failed to load /Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C Referenced by PersistentLevel
+[2018.02.13-01.35.50:015][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading NULL.
+[2018.02.13-01.35.50:016][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.13-01.35.50:016][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Background_Sprite.Background_Sprite Referenced by Background_Sprite_48
+[2018.02.13-01.35.50:016][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading NULL.
+[2018.02.13-01.35.50:016][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:016][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_13
+[2018.02.13-01.35.50:017][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:017][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:017][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_14
+[2018.02.13-01.35.50:017][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:018][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:018][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_15
+[2018.02.13-01.35.50:018][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:019][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:019][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_25
+[2018.02.13-01.35.50:019][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:019][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:019][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_26
+[2018.02.13-01.35.50:020][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:020][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:020][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_27
+[2018.02.13-01.35.50:020][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:021][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:021][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_28
+[2018.02.13-01.35.50:021][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:022][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:022][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_29
+[2018.02.13-01.35.50:022][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:022][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:022][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_30
+[2018.02.13-01.35.50:023][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:023][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:023][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_31
+[2018.02.13-01.35.50:023][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:024][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:024][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_32
+[2018.02.13-01.35.50:024][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:025][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:025][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_34
+[2018.02.13-01.35.50:025][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:025][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:025][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by Ledge_9
+[2018.02.13-01.35.50:026][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:026][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:026][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by LeftEdge
+[2018.02.13-01.35.50:027][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:027][864]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.13-01.35.50:027][864]LoadErrors: Failed to load /Game/2DSideScroller/Sprites/Ledge.Ledge Referenced by RightEdge
+[2018.02.13-01.35.50:027][864]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.13-01.35.50:028][864]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.02.13-01.35.50:028][864]LoadErrors: Failed to load /Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C Referenced by WorldInfo_0
+[2018.02.13-01.35.50:028][864]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode' while loading NULL.
+[2018.02.13-01.35.50:109][864]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.02.13-01.35.52:728][864]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': 2DSideScrollerCharacter_C /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+[2018.02.13-01.35.52:728][864]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SideViewCameraComponent': 2DSideScrollerCharacter_C /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+[2018.02.13-01.35.52:728][864]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': 2DSideScrollerCharacter_C /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+[2018.02.13-01.35.52:728][864]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': 2DSideScrollerCharacter_C /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+[2018.02.13-01.35.52:728][864]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sprite0': 2DSideScrollerCharacter_C /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+[2018.02.13-01.35.52:728][864]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CameraBoom': 2DSideScrollerCharacter_C /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+[2018.02.13-01.35.55:833][191]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.35.55:847][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.35.55:847][191]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:35:55 PM)
+[2018.02.13-01.35.55:847][191]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.35.55:848][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000855s)
+[2018.02.13-01.35.55:848][191]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.35.55:848][191]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2018.02.13-01.35.55:849][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001749s)
+[2018.02.13-01.35.55:888][191]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.35.55:908][191]LogInit: FAudioDevice initialized.
+[2018.02.13-01.35.55:943][191]LogLoad: Game class is 'GameModeBase'
+[2018.02.13-01.35.55:944][191]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.35.55
+[2018.02.13-01.35.55:944][191]LogWorld: Bringing up level for play took: 0.000715
+[2018.02.13-01.35.55:945][191]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.787
+[2018.02.13-01.38.11:060][287]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.38.11:073][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.38.11:074][287]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:38:11 PM)
+[2018.02.13-01.38.11:074][287]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.38.11:075][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000975s)
+[2018.02.13-01.38.11:075][287]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.38.11:076][287]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.02.13-01.38.11:076][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001968s)
+[2018.02.13-01.38.11:111][287]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.38.11:130][287]LogInit: FAudioDevice initialized.
+[2018.02.13-01.38.11:163][287]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.38.11:164][287]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.38.11
+[2018.02.13-01.38.11:165][287]LogWorld: Bringing up level for play took: 0.000893
+[2018.02.13-01.38.11:166][287]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.008
+[2018.02.13-01.38.51:263][846]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.38.51:277][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.38.51:277][846]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:38:51 PM)
+[2018.02.13-01.38.51:277][846]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.38.51:278][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000875s)
+[2018.02.13-01.38.51:278][846]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.38.51:279][846]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.02.13-01.38.51:279][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001743s)
+[2018.02.13-01.38.51:313][846]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.38.51:332][846]LogInit: FAudioDevice initialized.
+[2018.02.13-01.38.51:367][846]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.38.51:368][846]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.38.51
+[2018.02.13-01.38.51:368][846]LogWorld: Bringing up level for play took: 0.000808
+[2018.02.13-01.38.51:369][846]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.211
+[2018.02.13-01.45.14:000][491]LogSlate: Took 0.000557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.13-01.45.14:369][491]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0058 seconds. Added 113 classes and 0 folders.
+[2018.02.13-01.46.04:020][382]BlueprintLog: New page: Compile MainLevel
+[2018.02.13-01.46.04:044][382]LogBlueprint: Error: [Compiler PersistentLevel.MainLevel] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.02.13-01.46.04:106][382]LogBlueprint: Warning: [Compiler PersistentLevel.MainLevel] [2550.35] Compile of PersistentLevel.MainLevel failed. 1 Fatal Issue(s) 0 Warning(s) [in 85 ms] (/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel)
+[2018.02.13-01.47.02:093][466]BlueprintLog: New page: Compile MainLevel
+[2018.02.13-01.47.28:014][402]LogSavePackage: Save=363.29ms
+[2018.02.13-01.47.28:014][402]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/MainLevel_Auto2E9A4657D4C02F314E2B8F99627506A61.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Autosaves/Game/QBertFolders/Level/MainLevel_Auto2.umap'
+[2018.02.13-01.47.28:020][402]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Autosaves/Game/QBertFolders/Level/MainLevel_Auto2.umap
+[2018.02.13-01.47.28:025][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/QBertFolders/Level/MainLevel' took 0.409
+[2018.02.13-01.47.28:025][402]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.409
+[2018.02.13-01.47.35:474][237]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.47.35:535][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.35:535][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.47.35:536][237]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:47:35 PM)
+[2018.02.13-01.47.35:536][237]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.47.35:546][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010470s)
+[2018.02.13-01.47.35:547][237]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.47.35:547][237]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2018.02.13-01.47.35:547][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.011424s)
+[2018.02.13-01.47.35:590][237]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.47.35:609][237]LogInit: FAudioDevice initialized.
+[2018.02.13-01.47.35:644][237]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.47.35:646][237]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.47.35
+[2018.02.13-01.47.35:650][237]LogWorld: Bringing up level for play took: 0.004766
+[2018.02.13-01.47.35:678][237]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.519
+[2018.02.13-01.47.35:678][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.43:014][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.43:092][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.44:612][291]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.02.13-01.47.46:965][562]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.47.46:979][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.46:980][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.47.46:980][562]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:47:46 PM)
+[2018.02.13-01.47.46:980][562]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.47.46:981][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001193s)
+[2018.02.13-01.47.46:982][562]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.47.46:982][562]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.02.13-01.47.46:982][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002112s)
+[2018.02.13-01.47.47:023][562]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.47.47:042][562]LogInit: FAudioDevice initialized.
+[2018.02.13-01.47.47:073][562]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.47.47:074][562]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.47.47
+[2018.02.13-01.47.47:074][562]LogWorld: Bringing up level for play took: 0.000880
+[2018.02.13-01.47.47:075][562]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.083
+[2018.02.13-01.47.47:075][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.49:952][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.50:029][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.51:915][125]LogEditorViewport: Clicking on Actor (LMB): Cube (Cube3)
+[2018.02.13-01.47.53:453][294]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.47.53:467][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.53:467][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.47.53:467][294]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:47:53 PM)
+[2018.02.13-01.47.53:467][294]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.47.53:468][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001216s)
+[2018.02.13-01.47.53:469][294]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.47.53:469][294]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2018.02.13-01.47.53:469][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002347s)
+[2018.02.13-01.47.53:513][294]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.47.53:531][294]LogInit: FAudioDevice initialized.
+[2018.02.13-01.47.53:566][294]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.47.53:567][294]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.47.53
+[2018.02.13-01.47.53:567][294]LogWorld: Bringing up level for play took: 0.000868
+[2018.02.13-01.47.53:568][294]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.409
+[2018.02.13-01.47.53:568][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.57:453][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.57:500][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.47.59:053][939]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.02.13-01.48.09:646][153]LogEditorViewport: Clicking Background
+[2018.02.13-01.48.20:282][413]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.48.20:296][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.48.20:296][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.48.20:296][413]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:48:20 PM)
+[2018.02.13-01.48.20:296][413]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.48.20:298][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001170s)
+[2018.02.13-01.48.20:298][413]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.48.20:298][413]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2018.02.13-01.48.20:298][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002046s)
+[2018.02.13-01.48.20:340][413]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.48.20:358][413]LogInit: FAudioDevice initialized.
+[2018.02.13-01.48.20:394][413]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.48.20:395][413]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.48.20
+[2018.02.13-01.48.20:396][413]LogWorld: Bringing up level for play took: 0.000864
+[2018.02.13-01.48.20:397][413]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.762
+[2018.02.13-01.48.20:397][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.48.21:573][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.48.21:612][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.48.22:213][620]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.02.13-01.48.55:298][115]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.48.55:311][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.48.55:312][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.48.55:312][115]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:48:55 PM)
+[2018.02.13-01.48.55:312][115]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.48.55:313][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001204s)
+[2018.02.13-01.48.55:314][115]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.48.55:314][115]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2018.02.13-01.48.55:314][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002125s)
+[2018.02.13-01.48.55:357][115]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.48.55:375][115]LogInit: FAudioDevice initialized.
+[2018.02.13-01.48.55:406][115]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.48.55:407][115]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.48.55
+[2018.02.13-01.48.55:407][115]LogWorld: Bringing up level for play took: 0.000823
+[2018.02.13-01.48.55:408][115]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.25
+[2018.02.13-01.48.55:409][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.48.57:160][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.48.57:240][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.48.59:330][561]Cmd: TRANSACTION UNDO
+[2018.02.13-01.48.59:330][561]LogEditorTransaction: Undo Move Actors
+[2018.02.13-01.49.00:588][655]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.49.00:604][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.49.00:604][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.49.00:604][655]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:49:00 PM)
+[2018.02.13-01.49.00:604][655]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.49.00:605][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001423s)
+[2018.02.13-01.49.00:606][655]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.49.00:607][655]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2018.02.13-01.49.00:607][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002789s)
+[2018.02.13-01.49.00:654][655]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.49.00:674][655]LogInit: FAudioDevice initialized.
+[2018.02.13-01.49.00:711][655]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.49.00:712][655]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.49.00
+[2018.02.13-01.49.00:712][655]LogWorld: Bringing up level for play took: 0.000893
+[2018.02.13-01.49.00:713][655]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.445
+[2018.02.13-01.49.00:713][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.49.02:282][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.49.02:365][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.49.30:036][808]Cmd: TRANSACTION UNDO
+[2018.02.13-01.49.30:036][808]LogEditorTransaction: Undo Edit Mobility
+[2018.02.13-01.49.33:159][ 87]Cmd: TRANSACTION UNDO
+[2018.02.13-01.49.33:159][ 87]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.13-01.49.33:645][115]Cmd: TRANSACTION UNDO
+[2018.02.13-01.49.33:646][115]LogEditorTransaction: Undo Clicking Background
+[2018.02.13-01.49.34:092][116]Cmd: TRANSACTION UNDO
+[2018.02.13-01.49.34:092][116]LogEditorTransaction: Undo Marquee Select
+[2018.02.13-01.49.34:506][155]Cmd: TRANSACTION UNDO
+[2018.02.13-01.49.34:506][155]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.13-01.49.34:903][189]Cmd: TRANSACTION UNDO
+[2018.02.13-01.49.34:903][189]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.13-01.49.35:381][227]Cmd: TRANSACTION UNDO
+[2018.02.13-01.49.35:381][227]LogEditorTransaction: Undo Move Actors
+[2018.02.13-01.49.41:669][880]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.49.41:684][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.49.41:684][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.49.41:684][880]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:49:41 PM)
+[2018.02.13-01.49.41:684][880]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.49.41:685][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001170s)
+[2018.02.13-01.49.41:686][880]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.49.41:686][880]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.02.13-01.49.41:686][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002073s)
+[2018.02.13-01.49.41:759][880]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.49.41:777][880]LogInit: FAudioDevice initialized.
+[2018.02.13-01.49.41:811][880]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.49.41:812][880]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.49.41
+[2018.02.13-01.49.41:812][880]LogWorld: Bringing up level for play took: 0.000830
+[2018.02.13-01.49.41:813][880]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.654
+[2018.02.13-01.49.41:813][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.49.46:731][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.49.46:817][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.49.50:464][876]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.02.13-01.50.19:603][147]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.50.19:617][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.50.19:618][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.50.19:618][147]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:50:19 PM)
+[2018.02.13-01.50.19:618][147]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.50.19:619][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001127s)
+[2018.02.13-01.50.19:619][147]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.50.19:620][147]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.02.13-01.50.19:620][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001999s)
+[2018.02.13-01.50.19:692][147]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.50.19:711][147]LogInit: FAudioDevice initialized.
+[2018.02.13-01.50.19:745][147]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.50.19:747][147]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.50.19
+[2018.02.13-01.50.19:747][147]LogWorld: Bringing up level for play took: 0.000863
+[2018.02.13-01.50.19:748][147]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.589
+[2018.02.13-01.50.19:748][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.50.26:033][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.50.26:115][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.50.33:656][768]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.02.13-01.50.46:807][255]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.50.46:822][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.50.46:822][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.50.46:822][255]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:50:46 PM)
+[2018.02.13-01.50.46:822][255]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.50.46:823][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001216s)
+[2018.02.13-01.50.46:824][255]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.50.46:824][255]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2018.02.13-01.50.46:824][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002252s)
+[2018.02.13-01.50.46:894][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.50.46:912][255]LogInit: FAudioDevice initialized.
+[2018.02.13-01.50.46:947][255]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.50.46:948][255]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.50.46
+[2018.02.13-01.50.46:948][255]LogWorld: Bringing up level for play took: 0.001077
+[2018.02.13-01.50.46:949][255]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.209
+[2018.02.13-01.50.46:950][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.50.52:060][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.50.52:140][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.02:183][955]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.51.02:198][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.02:198][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.51.02:198][955]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:51:02 PM)
+[2018.02.13-01.51.02:198][955]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.51.02:199][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001140s)
+[2018.02.13-01.51.02:200][955]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.51.02:200][955]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.02.13-01.51.02:200][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002016s)
+[2018.02.13-01.51.02:271][955]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.51.02:289][955]LogInit: FAudioDevice initialized.
+[2018.02.13-01.51.02:323][955]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.51.02:324][955]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.51.02
+[2018.02.13-01.51.02:324][955]LogWorld: Bringing up level for play took: 0.000882
+[2018.02.13-01.51.02:325][955]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.833
+[2018.02.13-01.51.02:326][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.04:461][210]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.04:541][210]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.09:633][795]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2018.02.13-01.51.13:068][181]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.51.13:082][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.13:083][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.51.13:083][181]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:51:13 PM)
+[2018.02.13-01.51.13:083][181]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.51.13:084][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001177s)
+[2018.02.13-01.51.13:085][181]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.51.13:085][181]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.02.13-01.51.13:085][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002084s)
+[2018.02.13-01.51.13:154][181]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.51.13:173][181]LogInit: FAudioDevice initialized.
+[2018.02.13-01.51.13:207][181]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.51.13:209][181]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.51.13
+[2018.02.13-01.51.13:209][181]LogWorld: Bringing up level for play took: 0.000864
+[2018.02.13-01.51.13:210][181]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.051
+[2018.02.13-01.51.13:210][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.15:520][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.15:603][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.30:804][194]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.51.30:817][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.30:818][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.51.30:818][194]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:51:30 PM)
+[2018.02.13-01.51.30:818][194]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.51.30:819][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001111s)
+[2018.02.13-01.51.30:820][194]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.51.30:820][194]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2018.02.13-01.51.30:820][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002037s)
+[2018.02.13-01.51.30:891][194]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.51.30:909][194]LogInit: FAudioDevice initialized.
+[2018.02.13-01.51.30:945][194]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.51.30:946][194]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.51.30
+[2018.02.13-01.51.30:946][194]LogWorld: Bringing up level for play took: 0.000931
+[2018.02.13-01.51.30:947][194]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.211
+[2018.02.13-01.51.30:947][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.33:483][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.33:567][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.56:824][995]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.51.56:838][995]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.56:838][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.51.56:838][995]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:51:56 PM)
+[2018.02.13-01.51.56:838][995]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.51.56:839][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001157s)
+[2018.02.13-01.51.56:840][995]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.51.56:840][995]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.02.13-01.51.56:840][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002100s)
+[2018.02.13-01.51.56:909][995]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.51.56:930][995]LogInit: FAudioDevice initialized.
+[2018.02.13-01.51.56:962][995]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.51.56:963][995]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.51.56
+[2018.02.13-01.51.56:964][995]LogWorld: Bringing up level for play took: 0.000916
+[2018.02.13-01.51.56:965][995]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.194
+[2018.02.13-01.51.56:965][995]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.59:416][288]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.51.59:497][288]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.14:126][892]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.52.14:140][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.14:140][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.52.14:141][892]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:52:14 PM)
+[2018.02.13-01.52.14:141][892]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.52.14:142][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001143s)
+[2018.02.13-01.52.14:142][892]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.52.14:142][892]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2018.02.13-01.52.14:143][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002004s)
+[2018.02.13-01.52.14:214][892]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.52.14:232][892]LogInit: FAudioDevice initialized.
+[2018.02.13-01.52.14:266][892]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.52.14:267][892]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.52.14
+[2018.02.13-01.52.14:267][892]LogWorld: Bringing up level for play took: 0.000824
+[2018.02.13-01.52.14:268][892]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 1.11
+[2018.02.13-01.52.14:268][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.15:428][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.15:508][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.20:828][627]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.52.20:842][627]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.20:842][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.52.20:843][627]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:52:20 PM)
+[2018.02.13-01.52.20:843][627]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.52.20:844][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001199s)
+[2018.02.13-01.52.20:845][627]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.52.20:845][627]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.02.13-01.52.20:845][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002170s)
+[2018.02.13-01.52.20:914][627]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.52.20:933][627]LogInit: FAudioDevice initialized.
+[2018.02.13-01.52.20:967][627]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.52.20:968][627]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.52.20
+[2018.02.13-01.52.20:968][627]LogWorld: Bringing up level for play took: 0.000856
+[2018.02.13-01.52.20:969][627]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.189
+[2018.02.13-01.52.20:970][627]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.21:929][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.22:009][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.25:687][140]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.52.25:701][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.25:701][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.52.25:701][140]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:52:25 PM)
+[2018.02.13-01.52.25:701][140]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.52.25:702][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001114s)
+[2018.02.13-01.52.25:703][140]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.52.25:703][140]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.02.13-01.52.25:703][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.001928s)
+[2018.02.13-01.52.25:773][140]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.52.25:793][140]LogInit: FAudioDevice initialized.
+[2018.02.13-01.52.25:827][140]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.52.25:828][140]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.52.25
+[2018.02.13-01.52.25:828][140]LogWorld: Bringing up level for play took: 0.000869
+[2018.02.13-01.52.25:829][140]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.67
+[2018.02.13-01.52.25:829][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.29:115][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.29:197][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.32:435][884]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-01.52.32:449][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.32:449][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-01.52.32:449][884]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 3:52:32 PM)
+[2018.02.13-01.52.32:449][884]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-01.52.32:450][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001105s)
+[2018.02.13-01.52.32:451][884]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-01.52.32:451][884]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2018.02.13-01.52.32:451][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002033s)
+[2018.02.13-01.52.32:520][884]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-01.52.32:538][884]LogInit: FAudioDevice initialized.
+[2018.02.13-01.52.32:573][884]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-01.52.32:574][884]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-20.52.32
+[2018.02.13-01.52.32:574][884]LogWorld: Bringing up level for play took: 0.000978
+[2018.02.13-01.52.32:575][884]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.584
+[2018.02.13-01.52.32:575][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.45:137][390]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.45:217][390]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-01.52.47:577][637]LogSavePackage: Save=32.11ms
+[2018.02.13-01.52.47:577][637]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/MainLevel0911930645412642475ADD88730C9B46.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Level/MainLevel.umap'
+[2018.02.13-01.52.47:588][637]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Level/MainLevel.umap
+[2018.02.13-01.54.44:330][869]LogEditorViewport: Clicking on Actor (LMB): Cube (Cube3)
+[2018.02.13-01.55.35:546][997]Cmd: DELETE
+[2018.02.13-01.55.35:546][997]Cmd: ACTOR DELETE
+[2018.02.13-01.55.35:599][997]LogEditorActor: Deleted Actor: Cube
+[2018.02.13-01.55.35:616][997]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2018.02.13-02.02.48:195][766]LogSavePackage: Save=36.17ms
+[2018.02.13-02.02.48:195][766]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/MainLevel_Auto3BD030E4F403ABA02AB7368A32EC2DA17.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Autosaves/Game/QBertFolders/Level/MainLevel_Auto3.umap'
+[2018.02.13-02.02.48:202][766]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Autosaves/Game/QBertFolders/Level/MainLevel_Auto3.umap
+[2018.02.13-02.02.48:208][766]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/QBertFolders/Level/MainLevel' took 0.096
+[2018.02.13-02.02.48:208][766]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.096
+[2018.02.13-02.06.32:776][440]LogHotReload: New module detected: UE4Editor-QBert_Project-1489.dll
+[2018.02.13-02.06.38:121][457]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.13-02.06.38:375][457]Loaded sprite inside if
+[2018.02.13-02.06.38:381][457]Loaded sprite inside if
+[2018.02.13-02.06.38:387][457]LogContentBrowser: Native class hierarchy updated for 'QBert_Project' in 0.0054 seconds. Added 3 classes and 2 folders.
+[2018.02.13-02.06.38:389][457]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.13-02.06.38:684][457]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2391 classes and 506 folders.
+[2018.02.13-02.06.38:708][457]Display: HotReload took  0.6s.
+[2018.02.13-02.06.45:716][478]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-02.06.45:731][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-02.06.45:731][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-02.06.45:731][478]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 4:06:45 PM)
+[2018.02.13-02.06.45:731][478]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-02.06.45:732][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001082s)
+[2018.02.13-02.06.45:733][478]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-02.06.45:733][478]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2018.02.13-02.06.45:733][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002319s)
+[2018.02.13-02.06.45:809][478]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-02.06.45:830][478]LogInit: FAudioDevice initialized.
+[2018.02.13-02.06.45:867][478]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-02.06.45:868][478]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-21.06.45
+[2018.02.13-02.06.45:868][478]LogWorld: Bringing up level for play took: 0.000867
+[2018.02.13-02.06.45:869][478]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.711
+[2018.02.13-02.06.45:870][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-02.06.56:053][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-02.06.56:085][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-02.07.25:290][132]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-02.07.25:305][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-02.07.25:305][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-02.07.25:305][132]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 4:07:25 PM)
+[2018.02.13-02.07.25:305][132]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-02.07.25:306][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001153s)
+[2018.02.13-02.07.25:307][132]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-02.07.25:307][132]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.02.13-02.07.25:307][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002076s)
+[2018.02.13-02.07.25:348][132]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-02.07.25:367][132]LogInit: FAudioDevice initialized.
+[2018.02.13-02.07.25:399][132]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-02.07.25:400][132]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-21.07.25
+[2018.02.13-02.07.25:400][132]LogWorld: Bringing up level for play took: 0.000771
+[2018.02.13-02.07.25:402][132]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.243
+[2018.02.13-02.07.25:402][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-02.08.12:679][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-02.08.12:714][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-02.23.43:178][ 20]LogHotReload: New module detected: UE4Editor-QBert_Project-2732.dll
+[2018.02.13-02.23.44:861][ 26]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.13-02.23.45:041][ 26]Loaded sprite inside if
+[2018.02.13-02.23.45:045][ 26]Loaded sprite inside if
+[2018.02.13-02.23.45:052][ 26]LogContentBrowser: Native class hierarchy updated for 'QBert_Project' in 0.0056 seconds. Added 3 classes and 2 folders.
+[2018.02.13-02.23.45:055][ 26]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.13-02.23.45:515][ 26]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2391 classes and 506 folders.
+[2018.02.13-02.23.45:543][ 26]Display: HotReload took  0.7s.
+[2018.02.13-02.23.51:214][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-02.23.51:230][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.13-02.23.51:231][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-02.23.51:231][ 43]PIE: New page: PIE session: MainLevel (Feb 12, 2018, 4:23:51 PM)
+[2018.02.13-02.23.51:231][ 43]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.13-02.23.51:232][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001381s)
+[2018.02.13-02.23.51:233][ 43]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.13-02.23.51:234][ 43]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2018.02.13-02.23.51:234][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002963s)
+[2018.02.13-02.23.51:313][ 43]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-02.23.51:338][ 43]LogInit: FAudioDevice initialized.
+[2018.02.13-02.23.51:372][ 43]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.13-02.23.51:373][ 43]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.12-21.23.51
+[2018.02.13-02.23.51:373][ 43]LogWorld: Bringing up level for play took: 0.000766

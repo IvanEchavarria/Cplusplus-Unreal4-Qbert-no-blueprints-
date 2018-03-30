@@ -1,0 +1,474 @@
+﻿Log file open, 02/24/18 15:26:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: QBert_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(749423371) SRandInit(749423371).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.173880
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.24-20.26.26:275][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-20.26.26:275][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.24-20.26.26:429][  0]LogInit: Computer: DESKTOP-G1MUSF7
+[2018.02.24-20.26.26:429][  0]LogInit: User: spawn
+[2018.02.24-20.26.26:429][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.24-20.26.26:429][  0]LogInit: High frequency timer resolution =3.234377 MHz
+[2018.02.24-20.26.26:437][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.24-20.26.26:437][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.24-20.26.26:437][  0]LogMemory: Process Physical Memory: 282.20 MB used, 282.20 MB peak
+[2018.02.24-20.26.26:437][  0]LogMemory: Process Virtual Memory: 277.05 MB used, 277.05 MB peak
+[2018.02.24-20.26.26:437][  0]LogMemory: Physical Memory: 8143.70 MB used,  8102.11 MB free, 16245.80 MB total
+[2018.02.24-20.26.26:437][  0]LogMemory: Virtual Memory: 721.34 MB used,  8102.11 MB free, 134217728.00 MB total
+[2018.02.24-20.26.27:895][  0]LogInit: Using OS detected language (en-US).
+[2018.02.24-20.26.27:895][  0]LogInit: Using OS detected locale (en-CA).
+[2018.02.24-20.26.28:493][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.24-20.26.35:042][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.24-20.26.35:117][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.02.24-20.26.35:117][  0]LogD3D11RHI:       4058/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.02.24-20.26.35:135][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.02.24-20.26.35:135][  0]LogD3D11RHI:       128/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.24-20.26.35:139][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.24-20.26.35:139][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.24-20.26.35:139][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.24-20.26.35:150][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.24-20.26.35:150][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.24-20.26.35:150][  0]LogWindows: EnumDisplayDevices:
+[2018.02.24-20.26.35:150][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.02.24-20.26.35:158][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.02.24-20.26.35:159][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.02.24-20.26.35:159][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.02.24-20.26.35:159][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.02.24-20.26.35:159][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.24-20.26.35:159][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.24-20.26.35:160][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.24-20.26.35:160][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.02.24-20.26.35:160][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.24-20.26.35:160][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.24-20.26.35:160][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.24-20.26.35:218][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.24-20.26.35:694][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.24-20.26.35:955][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/Intermediate/Shaders/WorkingDirectory/8168/).
+[2018.02.24-20.26.35:956][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/spawn/AppData/Local/Temp/UnrealShaderWorkingDir/5FEA63AF40DF4185EA8F3DA0952CCD59/'.
+[2018.02.24-20.26.35:979][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.24-20.26.41:360][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.24-20.26.41:442][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.24-20.26.41:528][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.24-20.26.41:610][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.24-20.26.41:796][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.24-20.26.41:885][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.24-20.26.41:972][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.24-20.26.42:058][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.24-20.26.42:140][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.24-20.26.42:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.24-20.26.42:346][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.24-20.26.42:427][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.24-20.26.42:510][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.24-20.26.42:590][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.24-20.26.42:675][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.24-20.26.42:856][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.24-20.26.42:856][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.24-20.26.42:925][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.24-20.26.43:217][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.24-20.26.43:289][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.24-20.26.43:391][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.24-20.26.43:507][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.24-20.26.43:621][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.24-20.26.43:790][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.24-20.26.43:797][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.24-20.26.45:655][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.24-20.26.46:322][  0]LogDerivedDataCache: Loaded boot cache 0.67s 97MB C:/Users/spawn/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.24-20.26.46:322][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/spawn/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.24-20.26.46:323][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.24-20.26.46:323][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.24-20.26.46:323][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.24-20.26.46:323][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.24-20.26.46:489][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.24-20.26.46:504][  0]LogDerivedDataCache: Using Local data cache path C:/Users/spawn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.24-20.26.46:597][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.24-20.26.46:697][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.24-20.26.46:849][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-20.26.46:856][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-20.26.57:942][  0]LogAssetRegistry: FAssetRegistry took 0.0642 seconds to start up
+[2018.02.24-20.27.02:106][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-20.27.06:650][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.24-20.27.06:759][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.24-20.27.06:777][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.24-20.27.06:777][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.24-20.27.06:777][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.24-20.27.06:777][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.24-20.27.07:086][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.24-20.27.11:140][  0]LogNetVersion: QBert_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 34418127)
+[2018.02.24-20.27.13:149][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.206366 seconds
+[2018.02.24-20.27.13:184][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.24-20.27.13:184][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.24-20.27.13:199][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.24-20.27.13:286][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.24-20.27.34:546][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.24-20.27.34:659][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.24-20.27.37:478][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.24-20.27.38:742][  0]SourceControl: Source control is disabled
+[2018.02.24-20.27.38:743][  0]SourceControl: Source control is disabled
+[2018.02.24-20.27.38:894][  0]SourceControl: Source control is disabled
+[2018.02.24-20.27.39:035][  0]SourceControl: Source control is disabled
+[2018.02.24-20.27.40:902][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.24-20.27.41:621][  0]LogOcInput: OculusInput pre-init called
+[2018.02.24-20.27.42:935][  0]LogEngine: Initializing Engine...
+[2018.02.24-20.27.43:642][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.02.24-20.27.47:779][  0]LogLinker: Warning: Can't find file '/Game/QBertFolders/Font/Q-bert_Original_Font'
+[2018.02.24-20.27.47:795][  0]LogLinker: Warning: Can't find file '/Game/QBertFolders/Font/Q-bert_Original_Font'
+[2018.02.24-20.27.47:795][  0]LogUObjectGlobals: Warning: Failed to find object 'Font /Game/QBertFolders/Font/Q-bert_Original_Font.Q-bert_Original_Font'
+[2018.02.24-20.27.48:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.24-20.27.48:151][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.023 s
+[2018.02.24-20.27.51:535][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.24-20.27.52:301][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-20.27.52:376][  0]LogInit: FAudioDevice initialized.
+[2018.02.24-20.27.52:504][  0]LogDerivedDataCache: Saved boot cache 0.12s 97MB C:/Users/spawn/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.24-20.27.52:516][  0]LogInit: Texture streaming: Enabled
+[2018.02.24-20.27.52:901][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.24-20.27.55:729][  0]LogInit: Transaction tracking system initialized
+[2018.02.24-20.28.00:160][  0]BlueprintLog: New page: Editor Load
+[2018.02.24-20.28.07:186][  0]LocalizationService: Localization service is disabled
+[2018.02.24-20.28.11:335][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.24-20.28.11:335][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.24-20.28.11:335][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.02.24-20.28.12:302][  0]LogConsoleResponse: Display: 
+[2018.02.24-20.28.16:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/Content/' took 0.02s
+[2018.02.24-20.28.16:282][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.24-20.28.16:302][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.24-20.28.16:342][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.24-20.28.19:174][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Sphere'
+[2018.02.24-20.28.19:174][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Sphere'
+[2018.02.24-20.28.19:174][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2018.02.24-20.28.24:229][  0]SourceControl: Source control is disabled
+[2018.02.24-20.28.24:778][  0]Cmd: MAP LOAD FILE="C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/Content/QBertFolders/Level/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.24-20.28.24:966][  0]LightingResults: New page: Lighting Build
+[2018.02.24-20.28.26:575][  0]MapCheck: New page: Map Check
+[2018.02.24-20.28.26:575][  0]LightingResults: New page: Lighting Build
+[2018.02.24-20.28.34:793][  0]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.24-20.28.36:763][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.24-20.28.37:915][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.24-20.28.38:114][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 198.304ms to complete.
+[2018.02.24-20.28.38:114][  0]LogFileHelpers: Loading map 'MainLevel' took 13.722
+[2018.02.24-20.28.49:279][  0]LogCollectionManager: Loaded 0 collections in 0.002226 seconds
+[2018.02.24-20.28.51:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/Saved/Collections/' took 0.01s
+[2018.02.24-20.28.51:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/Content/Developers/spawn/Collections/' took 0.01s
+[2018.02.24-20.28.51:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/Content/Collections/' took 0.00s
+[2018.02.24-20.28.51:379][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.24-20.28.51:614][  0]LogContentBrowser: Native class hierarchy populated in 0.1708 seconds. Added 2394 classes and 502 folders.
+[2018.02.24-20.28.52:372][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0073 seconds. Added 0 classes and 0 folders.
+[2018.02.24-20.28.55:547][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0048 seconds. Added 0 classes and 0 folders.
+[2018.02.24-20.28.56:093][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0057 seconds. Added 1 classes and 2 folders.
+[2018.02.24-20.28.57:951][  0]LogSlate: Took 0.011094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.24-20.28.57:966][  0]LogSlate: Took 0.013098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.24-20.28.58:139][  0]LogSlate: Took 0.016065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.24-20.28.58:161][  0]LogSlate: Took 0.013024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.02.24-20.28.58:858][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.24-20.29.00:308][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0059 seconds. Added 1 classes and 2 folders.
+[2018.02.24-20.29.00:309][  0]LogLoad: (Engine Initialization) Total time: 211.42 seconds
+[2018.02.24-20.29.00:309][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.24-20.29.00:328][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.24-20.29.00:329][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.24-20.29.01:449][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.24-20.29.02:219][  2]LogAssetRegistry: Asset discovery search completed in 124.3008 seconds
+[2018.02.24-20.29.02:240][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.24-20.29.02:251][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.010346 seconds (updated 0 objects)
+[2018.02.24-20.30.03:413][822]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-20.30.03:517][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-20.30.03:529][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-20.30.03:695][822]PIE: New page: PIE session: MainLevel (Feb 24, 2018, 10:30:03 AM)
+[2018.02.24-20.30.03:706][822]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.24-20.30.03:798][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092920s)
+[2018.02.24-20.30.03:809][822]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.24-20.30.03:820][822]LogPlayLevel: PIE: World Init took: (0.020906s)
+[2018.02.24-20.30.03:854][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.158032s)
+[2018.02.24-20.30.03:915][822]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-20.30.03:934][822]LogInit: FAudioDevice initialized.
+[2018.02.24-20.30.04:007][822]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.24-20.30.04:153][822]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.24-15.30.04
+[2018.02.24-20.30.04:185][822]LogWorld: Bringing up level for play took: 0.032240
+[2018.02.24-20.30.04:469][822]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0050 seconds. Added 11 classes and 0 folders.
+[2018.02.24-20.30.04:705][822]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 1.191
+[2018.02.24-20.30.04:705][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-20.30.13:638][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-20.30.13:801][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-20.56.40:854][624]Candidate modules for hot reload:
+[2018.02.24-20.56.40:854][624]  QBert_Project
+[2018.02.24-20.56.40:854][624]Launching UnrealBuildTool... [D:/Unreal Engine/UE_4.17/Engine/Binaries/DotNET/UnrealBuildTool.exe QBert_Project -ModuleWithSuffix QBert_Project 6445 Win64 Development -editorrecompile -canskiplink "C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/QBert_Project.uproject" ]
+[2018.02.24-20.56.40:976][624]Warning: Starting HotReload took  0.3s.
+[2018.02.24-21.01.11:323][953]CompilerResultsLog: New page: Compilation - Feb 24, 2018, 11:01:11 AM
+[2018.02.24-21.01.11:323][953]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.24-21.01.11:323][953]CompilerResultsLog: Parsing headers for QBert_ProjectEditor
+[2018.02.24-21.01.11:323][953]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\QBert_Project.uproject" "C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\QBert_ProjectEditor\Development\QBert_ProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: Reflection code generated for QBert_ProjectEditor in 10.6248881 seconds
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: Performing 20 actions (4 in parallel)
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: QBert_Project.init.gen.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: Coily.gen.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: QBERTGameMode.gen.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: Qbert.gen.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: GreenBall.gen.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: Elevator.gen.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: Cube.gen.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: UIElements.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: RedBall.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: QBert_Project.cpp
+[2018.02.24-21.01.11:324][953]CompilerResultsLog: QBERTGameMode.cpp
+[2018.02.24-21.01.11:325][953]CompilerResultsLog: Qbert.cpp
+[2018.02.24-21.01.11:325][953]CompilerResultsLog: GreenBall.cpp
+[2018.02.24-21.01.11:325][953]CompilerResultsLog: Elevator.cpp
+[2018.02.24-21.01.11:325][953]CompilerResultsLog: Cube.cpp
+[2018.02.24-21.01.11:325][953]CompilerResultsLog: Coily.cpp
+[2018.02.24-21.01.11:325][953]CompilerResultsLog: RedBall.gen.cpp
+[2018.02.24-21.01.11:325][953]CompilerResultsLog: UIElements.gen.cpp
+[2018.02.24-21.01.11:325][953]CompilerResultsLog: [19/20] Link UE4Editor-QBert_Project-6445.dll
+[2018.02.24-21.01.11:325][953]CompilerResultsLog: [20/20] Link UE4Editor-QBert_Project-6445.lib
+[2018.02.24-21.01.11:325][953]CompilerResultsLog:    Creating library C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-6445.lib and object C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-6445.exp
+[2018.02.24-21.01.11:326][953]CompilerResultsLog:    Creating library C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-6445.suppressed.lib and object C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-6445.suppressed.exp
+[2018.02.24-21.01.11:326][953]CompilerResultsLog: Total build time: 269.61 seconds (Local executor: 232.79 seconds)
+[2018.02.24-21.01.11:332][953]LogMainFrame: MainFrame: Module compiling took 270.678 seconds
+[2018.02.24-21.01.11:547][953]LogContentBrowser: Native class hierarchy updated for 'QBert_Project' in 0.0053 seconds. Added 8 classes and 2 folders.
+[2018.02.24-21.01.11:559][953]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.24-21.01.11:923][953]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2396 classes and 506 folders.
+[2018.02.24-21.01.11:939][953]Display: HotReload took 271.3s.
+[2018.02.24-21.07.45:684][125]LogHotReload: New module detected: UE4Editor-QBert_Project-7589.dll
+[2018.02.24-21.07.47:681][132]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.24-21.07.47:923][132]LogSlate: Took 0.015719 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-21.07.48:106][132]LogContentBrowser: Native class hierarchy updated for 'QBert_Project' in 0.0057 seconds. Added 8 classes and 2 folders.
+[2018.02.24-21.07.48:107][132]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.24-21.07.48:159][132]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 2396 classes and 506 folders.
+[2018.02.24-21.07.48:194][132]Display: HotReload took  0.5s.
+[2018.02.24-21.10.30:202][706]LogHotReload: New module detected: UE4Editor-QBert_Project-3171.dll
+[2018.02.24-21.10.31:555][711]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.24-21.10.31:713][711]LogContentBrowser: Native class hierarchy updated for 'QBert_Project' in 0.0051 seconds. Added 8 classes and 2 folders.
+[2018.02.24-21.10.31:715][711]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.24-21.10.31:748][711]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2396 classes and 506 folders.
+[2018.02.24-21.10.31:774][711]Display: HotReload took  0.2s.
+[2018.02.24-21.12.52:629][133]LogHotReload: New module detected: UE4Editor-QBert_Project-9325.dll
+[2018.02.24-21.12.53:978][138]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.24-21.12.54:124][138]LogClass: Could not find existing class Qbert in package /Script/QBert_Project for HotReload, assuming new class
+[2018.02.24-21.12.54:178][138]LogHotReload: Re-instancing Qbert after hot-reload.
+[2018.02.24-21.12.54:244][138]LogContentBrowser: Native class hierarchy updated for 'QBert_Project' in 0.0048 seconds. Added 8 classes and 2 folders.
+[2018.02.24-21.12.54:246][138]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.24-21.12.54:278][138]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2396 classes and 506 folders.
+[2018.02.24-21.12.54:303][138]Display: HotReload took  0.3s.
+[2018.02.24-21.16.53:711][859]Candidate modules for hot reload:
+[2018.02.24-21.16.53:711][859]  QBert_Project
+[2018.02.24-21.16.53:712][859]Launching UnrealBuildTool... [D:/Unreal Engine/UE_4.17/Engine/Binaries/DotNET/UnrealBuildTool.exe QBert_Project -ModuleWithSuffix QBert_Project 9054 Win64 Development -editorrecompile -canskiplink "C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/QBert_Project.uproject" ]
+[2018.02.24-21.16.53:850][859]Warning: Starting HotReload took  0.2s.
+[2018.02.24-21.17.14:742][491]CompilerResultsLog: New page: Compilation - Feb 24, 2018, 11:17:14 AM
+[2018.02.24-21.17.14:743][491]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.24-21.17.14:743][491]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.02.24-21.17.14:743][491]CompilerResultsLog: Qbert.cpp
+[2018.02.24-21.17.14:743][491]CompilerResultsLog: Error: C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Source\QBert_Project\Qbert.cpp(112) : error C2352: 'AQBERTGameMode::MapPosition': illegal call of non-static member function
+[2018.02.24-21.17.14:744][491]CompilerResultsLog: Error: c:\users\spawn\desktop\gbc\w2018\game2030\qbert_project\qbert_project\source\qbert_project\QBERTGameMode.h(29) : note: see declaration of 'AQBERTGameMode::MapPosition'
+[2018.02.24-21.17.14:744][491]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Binaries\Win64\UE4Editor-QBert_Project-9054.dll
+[2018.02.24-21.17.14:744][491]CompilerResultsLog: Total build time: 20.24 seconds (Local executor: 0.00 seconds)
+[2018.02.24-21.17.14:744][491]LogMainFrame: MainFrame: Module compiling took 21.062 seconds
+[2018.02.24-21.17.14:744][491]Warning: HotReload failed, recompile failed
+[2018.02.24-21.24.43:922][644]Candidate modules for hot reload:
+[2018.02.24-21.24.43:923][644]  QBert_Project
+[2018.02.24-21.24.43:923][644]Launching UnrealBuildTool... [D:/Unreal Engine/UE_4.17/Engine/Binaries/DotNET/UnrealBuildTool.exe QBert_Project -ModuleWithSuffix QBert_Project 2574 Win64 Development -editorrecompile -canskiplink "C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/QBert_Project.uproject" ]
+[2018.02.24-21.24.45:199][644]Warning: Starting HotReload took  1.3s.
+[2018.02.24-21.25.05:865][ 92]CompilerResultsLog: New page: Compilation - Feb 24, 2018, 11:25:05 AM
+[2018.02.24-21.25.05:866][ 92]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.24-21.25.05:866][ 92]CompilerResultsLog: Parsing headers for QBert_ProjectEditor
+[2018.02.24-21.25.05:866][ 92]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\QBert_Project.uproject" "C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\QBert_ProjectEditor\Development\QBert_ProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.02.24-21.25.05:866][ 92]CompilerResultsLog: Error: C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/Source/QBert_Project/Qbert.h(13)  : Error: Implements: Class QBERTGameMode is not an interface; Can only inherit from non-UObjects or UInterface derived interfaces
+[2018.02.24-21.25.05:866][ 92]CompilerResultsLog: Error: UnrealHeaderTool failed for target 'QBert_ProjectEditor' (platform: Win64, module info: C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\QBert_ProjectEditor\Development\QBert_ProjectEditor.uhtmanifest, exit code: OtherCompilationError (5)).
+[2018.02.24-21.25.05:867][ 92]LogMainFrame: MainFrame: Module compiling took 21.972 seconds
+[2018.02.24-21.25.05:867][ 92]Warning: HotReload failed, recompile failed
+[2018.02.24-21.29.12:953][721]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-21.29.12:983][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.29.12:983][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.29.12:984][721]PIE: New page: PIE session: MainLevel (Feb 24, 2018, 11:29:12 AM)
+[2018.02.24-21.29.12:984][721]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.24-21.29.12:987][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002655s)
+[2018.02.24-21.29.12:989][721]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.24-21.29.12:989][721]LogPlayLevel: PIE: World Init took: (0.001937s)
+[2018.02.24-21.29.12:990][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.005441s)
+[2018.02.24-21.29.13:038][721]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-21.29.13:081][721]LogInit: FAudioDevice initialized.
+[2018.02.24-21.29.13:446][721]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.24-21.29.13:448][721]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.24-16.29.13
+[2018.02.24-21.29.13:449][721]LogWorld: Bringing up level for play took: 0.001287
+[2018.02.24-21.29.13:455][721]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel -0.117
+[2018.02.24-21.29.13:455][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.29.39:072][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.29.39:116][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.31.39:956][202]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-21.31.39:974][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.31.39:974][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.31.39:974][202]PIE: New page: PIE session: MainLevel (Feb 24, 2018, 11:31:39 AM)
+[2018.02.24-21.31.39:975][202]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.24-21.31.39:976][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001611s)
+[2018.02.24-21.31.39:977][202]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.24-21.31.39:978][202]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2018.02.24-21.31.39:979][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.004026s)
+[2018.02.24-21.31.40:020][202]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-21.31.40:039][202]LogInit: FAudioDevice initialized.
+[2018.02.24-21.31.40:073][202]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.24-21.31.40:075][202]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.24-16.31.40
+[2018.02.24-21.31.40:075][202]LogWorld: Bringing up level for play took: 0.001118
+[2018.02.24-21.31.40:080][202]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.508
+[2018.02.24-21.31.40:081][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.31.49:122][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.31.49:161][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.36.37:452][986]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-21.36.37:469][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.36.37:470][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.36.37:470][986]PIE: New page: PIE session: MainLevel (Feb 24, 2018, 11:36:37 AM)
+[2018.02.24-21.36.37:470][986]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.24-21.36.37:472][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001311s)
+[2018.02.24-21.36.37:473][986]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.24-21.36.37:473][986]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2018.02.24-21.36.37:473][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.003052s)
+[2018.02.24-21.36.37:514][986]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-21.36.37:548][986]LogInit: FAudioDevice initialized.
+[2018.02.24-21.36.37:610][986]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.24-21.36.37:617][986]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.24-16.36.37
+[2018.02.24-21.36.37:618][986]LogWorld: Bringing up level for play took: 0.006774
+[2018.02.24-21.36.37:623][986]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.051
+[2018.02.24-21.36.37:623][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.37.02:203][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.37.02:243][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.38.10:109][438]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-21.38.10:124][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.38.10:125][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.38.10:125][438]PIE: New page: PIE session: MainLevel (Feb 24, 2018, 11:38:10 AM)
+[2018.02.24-21.38.10:125][438]LogPlayLevel: Creating play world package: /Game/QBertFolders/Level/UEDPIE_0_MainLevel
+[2018.02.24-21.38.10:126][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001257s)
+[2018.02.24-21.38.10:127][438]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.24-21.38.10:127][438]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.02.24-21.38.10:128][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/QBertFolders/Level/MainLevel.MainLevel to /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel (0.002534s)
+[2018.02.24-21.38.10:165][438]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-21.38.10:182][438]LogInit: FAudioDevice initialized.
+[2018.02.24-21.38.10:220][438]LogLoad: Game class is 'QBERTGameMode'
+[2018.02.24-21.38.10:222][438]LogWorld: Bringing World /Game/QBertFolders/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.02.24-16.38.10
+[2018.02.24-21.38.10:222][438]LogWorld: Bringing up level for play took: 0.001196
+[2018.02.24-21.38.10:227][438]PIE: Play in editor start time for /Game/QBertFolders/Level/UEDPIE_0_MainLevel 0.655
+[2018.02.24-21.38.10:227][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.38.14:267][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.38.14:302][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/QBertFolders/Level/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/QBertFolders/Level/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.02.24-21.38.57:772][298]Candidate modules for hot reload:
+[2018.02.24-21.38.57:772][298]  QBert_Project
+[2018.02.24-21.38.57:773][298]Launching UnrealBuildTool... [D:/Unreal Engine/UE_4.17/Engine/Binaries/DotNET/UnrealBuildTool.exe QBert_Project -ModuleWithSuffix QBert_Project 7592 Win64 Development -editorrecompile -canskiplink "C:/Users/spawn/Desktop/GBC/W2018/GAME2030/QBert_Project/QBert_Project/QBert_Project.uproject" ]
+[2018.02.24-21.38.58:041][298]Warning: Starting HotReload took  0.4s.
+[2018.02.24-21.39.34:573][799]CompilerResultsLog: New page: Compilation - Feb 24, 2018, 11:39:34 AM
+[2018.02.24-21.39.34:573][799]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.24-21.39.34:573][799]CompilerResultsLog: Parsing headers for QBert_ProjectEditor
+[2018.02.24-21.39.34:573][799]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\QBert_Project.uproject" "C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\QBert_ProjectEditor\Development\QBert_ProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.02.24-21.39.34:574][799]CompilerResultsLog: Reflection code generated for QBert_ProjectEditor in 9.8078075 seconds
+[2018.02.24-21.39.34:574][799]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.02.24-21.39.34:574][799]CompilerResultsLog: Qbert.cpp
+[2018.02.24-21.39.34:574][799]CompilerResultsLog: [2/3] Link UE4Editor-QBert_Project-7592.dll
+[2018.02.24-21.39.34:574][799]CompilerResultsLog: [3/3] Link UE4Editor-QBert_Project-7592.lib
+[2018.02.24-21.39.34:574][799]CompilerResultsLog:    Creating library C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-7592.lib and object C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-7592.exp
+[2018.02.24-21.39.34:574][799]CompilerResultsLog:    Creating library C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-7592.suppressed.lib and object C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-7592.suppressed.exp
+[2018.02.24-21.39.34:575][799]CompilerResultsLog: Total build time: 35.48 seconds (Local executor: 15.87 seconds)
+[2018.02.24-21.39.34:575][799]LogMainFrame: MainFrame: Module compiling took 36.832 seconds
+[2018.02.24-21.39.34:654][799]LogClass: Could not find existing class Qbert in package /Script/QBert_Project for HotReload, assuming new class
+[2018.02.24-21.39.34:975][799]LogWindows: Windows GetLastError: The operation completed successfully. (0)

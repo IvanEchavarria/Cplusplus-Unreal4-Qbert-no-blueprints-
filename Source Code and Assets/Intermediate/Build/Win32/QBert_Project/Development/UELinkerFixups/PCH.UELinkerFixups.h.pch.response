@@ -1,0 +1,34 @@
+/Zc:inline
+/nologo
+/Oi
+/c
+/Gy
+/Zm850
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/source-charset:utf-8 /execution-charset:utf-8
+/Ox
+/Ot
+/Ob2
+/arch:SSE2
+/errorReport:prompt
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp4
+/wd4463
+/wd4838
+/w44668
+/I "D:\Unreal Engine\UE_4.17\Engine\Source"
+/D_HAS_EXCEPTIONS=0
+/I "C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_Project\QBert_Project\Intermediate\Build\Win32\QBert_Project\Development\UELinkerFixups"
+/Yc"C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_Project\QBert_Project\Intermediate\Build\Win32\QBert_Project\Development\UELinkerFixups\PCH.UELinkerFixups.h"
+/Fp"C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_Project\QBert_Project\Intermediate\Build\Win32\QBert_Project\Development\UELinkerFixups\PCH.UELinkerFixups.h.pch"
+"C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_Project\QBert_Project\Intermediate\Build\Win32\QBert_Project\Development\UELinkerFixups\PCH.UELinkerFixups.cpp"
+/Fo"C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_Project\QBert_Project\Intermediate\Build\Win32\QBert_Project\Development\UELinkerFixups\PCH.UELinkerFixups.h.obj"
+/TP
+/GR-
+/W4

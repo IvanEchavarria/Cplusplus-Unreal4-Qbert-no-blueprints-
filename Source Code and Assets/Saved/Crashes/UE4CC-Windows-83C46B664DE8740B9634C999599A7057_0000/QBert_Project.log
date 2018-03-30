@@ -1,0 +1,936 @@
+﻿Log file open, 02/11/18 14:22:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: QBert_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1531024651) SRandInit(1531024651).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.196748
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.11-19.22.51:448][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.11-19.22.51:448][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.11-19.22.51:463][  0]LogInit: Computer: DESKTOP-G1MUSF7
+[2018.02.11-19.22.51:463][  0]LogInit: User: spawn
+[2018.02.11-19.22.51:464][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.11-19.22.51:464][  0]LogInit: High frequency timer resolution =3.234371 MHz
+[2018.02.11-19.22.51:464][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.11-19.22.51:464][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.11-19.22.51:464][  0]LogMemory: Process Physical Memory: 284.15 MB used, 284.15 MB peak
+[2018.02.11-19.22.51:464][  0]LogMemory: Process Virtual Memory: 277.03 MB used, 277.03 MB peak
+[2018.02.11-19.22.51:464][  0]LogMemory: Physical Memory: 7777.01 MB used,  8468.79 MB free, 16245.80 MB total
+[2018.02.11-19.22.51:464][  0]LogMemory: Virtual Memory: 721.88 MB used,  8468.79 MB free, 134217728.00 MB total
+[2018.02.11-19.22.51:688][  0]LogInit: Using OS detected language (en-US).
+[2018.02.11-19.22.51:688][  0]LogInit: Using OS detected locale (en-CA).
+[2018.02.11-19.22.51:699][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.11-19.22.52:848][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.11-19.22.52:889][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.02.11-19.22.52:889][  0]LogD3D11RHI:       4058/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.02.11-19.22.52:901][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.02.11-19.22.52:901][  0]LogD3D11RHI:       128/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.11-19.22.52:906][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.11-19.22.52:906][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.11-19.22.52:906][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.11-19.22.52:912][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.11-19.22.52:912][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.11-19.22.52:912][  0]LogWindows: EnumDisplayDevices:
+[2018.02.11-19.22.52:912][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.02.11-19.22.52:913][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.02.11-19.22.52:913][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.02.11-19.22.52:913][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.02.11-19.22.52:913][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.02.11-19.22.52:914][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.11-19.22.52:914][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.11-19.22.52:914][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.11-19.22.52:914][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.02.11-19.22.52:914][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.11-19.22.52:914][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.11-19.22.52:914][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.11-19.22.52:944][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.11-19.22.52:977][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.11-19.22.53:121][  0]LogShaderCompilers: Guid format shader working directory is -65 characters bigger than the processId version (C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Intermediate/Shaders/WorkingDirectory/14560/).
+[2018.02.11-19.22.53:122][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/spawn/AppData/Local/Temp/UnrealShaderWorkingDir/DA21D4A347ACD8AD515928A95B9A5E58/'.
+[2018.02.11-19.22.53:122][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.11-19.22.54:498][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.11-19.22.54:575][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.11-19.22.54:649][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.11-19.22.54:721][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.11-19.22.54:798][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.11-19.22.54:873][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.11-19.22.54:947][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.11-19.22.55:020][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.11-19.22.55:087][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.11-19.22.55:160][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.11-19.22.55:235][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.11-19.22.55:305][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.11-19.22.55:376][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.11-19.22.55:451][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.11-19.22.55:523][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.11-19.22.55:669][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.11-19.22.55:669][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.11-19.22.55:730][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.11-19.22.55:848][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.11-19.22.55:880][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.11-19.22.55:953][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.11-19.22.56:028][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.11-19.22.56:099][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.11-19.22.56:171][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.11-19.22.56:171][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.11-19.22.56:820][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.11-19.22.56:899][  0]LogDerivedDataCache: Loaded boot cache 0.08s 93MB C:/Users/spawn/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.11-19.22.56:899][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/spawn/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.11-19.22.56:900][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.11-19.22.56:900][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.11-19.22.56:900][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.11-19.22.56:900][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.11-19.22.56:915][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.11-19.22.56:930][  0]LogDerivedDataCache: Using Local data cache path C:/Users/spawn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.11-19.22.56:940][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.11-19.22.56:940][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.11-19.22.56:942][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.11-19.22.56:942][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.11-19.22.57:303][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2018.02.11-19.22.57:499][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.11-19.22.57:709][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.11-19.22.58:113][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.11-19.22.58:174][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.11-19.22.58:174][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.11-19.22.58:174][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.11-19.22.58:174][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.11-19.22.58:174][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.11-19.22.58:635][  0]LogNetVersion: QBert_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 34418127)
+[2018.02.11-19.22.58:959][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.098706 seconds
+[2018.02.11-19.22.58:964][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.11-19.22.58:965][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.11-19.22.58:965][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.11-19.22.59:030][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.11-19.23.03:208][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.11-19.23.03:278][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.11-19.23.04:333][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.11-19.23.04:972][  0]SourceControl: Source control is disabled
+[2018.02.11-19.23.04:972][  0]SourceControl: Source control is disabled
+[2018.02.11-19.23.05:060][  0]SourceControl: Source control is disabled
+[2018.02.11-19.23.05:147][  0]SourceControl: Source control is disabled
+[2018.02.11-19.23.06:141][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.11-19.23.06:573][  0]LogOcInput: OculusInput pre-init called
+[2018.02.11-19.23.06:969][  0]LogEngine: Initializing Engine...
+[2018.02.11-19.23.08:232][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.02.11-19.23.08:453][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.11-19.23.08:453][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.11-19.23.08:654][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.11-19.23.08:695][  0]LogInit: XAudio2 using 'Philips FTV-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.11-19.23.08:717][  0]LogInit: FAudioDevice initialized.
+[2018.02.11-19.23.08:818][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/spawn/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.11-19.23.08:825][  0]LogInit: Texture streaming: Enabled
+[2018.02.11-19.23.08:992][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.11-19.23.09:331][  0]LogInit: Transaction tracking system initialized
+[2018.02.11-19.23.09:817][  0]BlueprintLog: New page: Editor Load
+[2018.02.11-19.23.11:021][  0]LogInit: Warning: CVar named 'r.MobileHDR' marked up in RendererSettings was not found or is set to read-only
+[2018.02.11-19.23.11:233][  0]LocalizationService: Localization service is disabled
+[2018.02.11-19.23.12:018][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.11-19.23.12:019][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.11-19.23.12:019][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.02.11-19.23.12:307][  0]LogConsoleResponse: Display: 
+[2018.02.11-19.23.12:537][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.11-19.23.12:537][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.11-19.23.12:537][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.11-19.23.13:226][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/' took 0.01s
+[2018.02.11-19.23.13:438][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Sphere'
+[2018.02.11-19.23.13:438][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Sphere'
+[2018.02.11-19.23.13:438][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2018.02.11-19.23.14:257][  0]SourceControl: Source control is disabled
+[2018.02.11-19.23.14:258][  0]LightingResults: New page: Lighting Build
+[2018.02.11-19.23.14:322][  0]MapCheck: New page: Map Check
+[2018.02.11-19.23.14:322][  0]LightingResults: New page: Lighting Build
+[2018.02.11-19.23.14:874][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.02.11-19.23.14:936][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.11-19.23.14:964][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.11-19.23.15:106][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 143.099ms to complete.
+[2018.02.11-19.23.15:107][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.850
+[2018.02.11-19.23.15:205][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.11-19.23.15:793][  0]LogCollectionManager: Loaded 0 collections in 0.001716 seconds
+[2018.02.11-19.23.16:050][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Collections/' took 0.01s
+[2018.02.11-19.23.16:050][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/Developers/spawn/Collections/' took 0.01s
+[2018.02.11-19.23.16:050][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/Collections/' took 0.01s
+[2018.02.11-19.23.16:050][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.11-19.23.16:075][  0]LogContentBrowser: Native class hierarchy populated in 0.0235 seconds. Added 2386 classes and 500 folders.
+[2018.02.11-19.23.16:210][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.02.11-19.23.16:340][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.02.11-19.23.16:479][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.02.11-19.23.16:826][  0]LogSlate: Took 0.000693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.11-19.23.16:835][  0]LogSlate: Took 0.000557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.11-19.23.16:877][  0]LogSlate: Took 0.011479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.11-19.23.16:890][  0]LogSlate: Took 0.012040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.02.11-19.23.17:299][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.11-19.23.17:721][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.02.11-19.23.17:721][  0]LogLoad: (Engine Initialization) Total time: 30.23 seconds
+[2018.02.11-19.23.17:722][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.11-19.23.17:722][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.11-19.23.17:722][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.11-19.23.17:779][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.11-19.23.17:835][  1]LogAssetRegistry: Asset discovery search completed in 20.5542 seconds
+[2018.02.11-19.23.17:836][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.11-19.23.17:836][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000186 seconds (updated 0 objects)
+[2018.02.11-19.23.22:934][592]LogSlate: Took 0.000557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-19.24.23:955][649]LogSlate: Took 0.000523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-19.24.23:998][649]LogMaterial: Missing cached shader map for material PrototypingSpriteMaterial, compiling. 
+[2018.02.11-19.24.24:223][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:223][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:224][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:224][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:224][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:225][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:225][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:225][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:225][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:225][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:226][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:226][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:226][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:226][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:226][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:227][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:227][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:227][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:InpTchEvt_Pressed' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:227][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:InpTchEvt_Released' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2018.02.11-19.24.24:260][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2018.02.11-19.24.24:260][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.SKEL_2DSideScrollerGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2018.02.11-19.24.24:260][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.SKEL_2DSideScrollerGameMode_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2018.02.11-19.24.24:260][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.SKEL_2DSideScrollerGameMode_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2018.02.11-19.24.24:261][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2018.02.11-19.24.24:261][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2018.02.11-19.24.25:234][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2018.02.11-19.24.25:235][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.SKEL_2DSideScrollerExampleMap_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2018.02.11-19.24.25:252][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C' ref from Metadata '/Game/2DSideScrollerBP/2DSideScrollerOverview.PackageMetaData'
+[2018.02.11-19.24.25:252][649]LogMetaData: Removing '/Game/StarterContent/2DSideScrollerBP/2DSideScrollerOverview.SKEL_2DSideScrollerOverview_C' ref from Metadata '/Game/2DSideScrollerBP/2DSideScrollerOverview.PackageMetaData'
+[2018.02.11-19.24.25:519][649]LogSavePackage: Save=186.14ms
+[2018.02.11-19.24.25:519][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/2DSideScrollerCharacter13B3995B4F8970FD94DC7F9B1FE2AC5F.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.02.11-19.24.25:553][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.02.11-19.24.25:607][649]LogSavePackage: Save=26.31ms
+[2018.02.11-19.24.25:607][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/2DSideScrollerGameMode0EBCA0C34CD5D6F2BF552EBC917EEB5E.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2018.02.11-19.24.25:639][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset
+[2018.02.11-19.24.25:897][649]LogSavePackage: Save=83.00ms
+[2018.02.11-19.24.25:897][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/2DSideScrollerExampleMap54942B8E4800587F5E08058AD306F5F4.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.02.11-19.24.25:909][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2018.02.11-19.24.25:938][649]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.291
+[2018.02.11-19.24.25:965][649]LogSavePackage: Save=18.98ms
+[2018.02.11-19.24.25:966][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/2DSideScrollerOverviewC90DCC9441D413091A8377ACEAA81013.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/2DSideScrollerOverview.uasset'
+[2018.02.11-19.24.25:977][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/2DSideScrollerOverview.uasset
+[2018.02.11-19.24.25:980][649]EditorErrors: New page: Save Output
+[2018.02.11-19.24.25:980][649]EditorErrors: Warning: Missing filename
+[2018.02.11-19.24.27:085][649]LogSavePackage: Save=38.55ms
+[2018.02.11-19.24.27:085][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/2DCharacter_IdleAnimAtlas862A50A546034956456D95A5FA4DCC52.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset'
+[2018.02.11-19.24.27:101][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset
+[2018.02.11-19.24.27:132][649]LogSavePackage: Save=12.47ms
+[2018.02.11-19.24.27:132][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/IdleCycle187D83BD543FCB98E6544E99F629CBFEA.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset'
+[2018.02.11-19.24.27:150][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset
+[2018.02.11-19.24.27:179][649]LogSavePackage: Save=11.80ms
+[2018.02.11-19.24.27:179][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/IdleCycle2A6B6EE6B414F3A469D8CB09D31DF2664.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset'
+[2018.02.11-19.24.27:196][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset
+[2018.02.11-19.24.27:228][649]LogSavePackage: Save=11.91ms
+[2018.02.11-19.24.27:228][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/IdleCycle34422D8364446864798C529A4EE4B8C91.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset'
+[2018.02.11-19.24.27:246][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset
+[2018.02.11-19.24.27:277][649]LogSavePackage: Save=12.47ms
+[2018.02.11-19.24.27:277][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/IdleCycle4909DC4E7402A63DC42896DAB8A82381E.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset'
+[2018.02.11-19.24.27:293][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset
+[2018.02.11-19.24.27:323][649]LogSavePackage: Save=11.94ms
+[2018.02.11-19.24.27:323][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/IdleCycle581156B4E40CF7DEE7F8C6A9A853F4C18.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset'
+[2018.02.11-19.24.27:335][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset
+[2018.02.11-19.24.27:366][649]LogSavePackage: Save=12.84ms
+[2018.02.11-19.24.27:366][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/IdleCycle6E17368D04EB46FF6AF418798551A70F9.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset'
+[2018.02.11-19.24.27:384][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset
+[2018.02.11-19.24.27:413][649]LogSavePackage: Save=11.80ms
+[2018.02.11-19.24.27:413][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/IdleCycle7158B46944F241EBEB8824AA2FAA31C5E.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset'
+[2018.02.11-19.24.27:432][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset
+[2018.02.11-19.24.27:462][649]LogSavePackage: Save=11.87ms
+[2018.02.11-19.24.27:462][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/IdleCycle81642BD4143BBEEB5AE860F89C0D21651.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset'
+[2018.02.11-19.24.27:479][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset
+[2018.02.11-19.24.27:505][649]LogSavePackage: Save=10.67ms
+[2018.02.11-19.24.27:505][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/IdleAnimation4BB673F64347E03E1F51038DDEE3A9ED.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleAnimation.uasset'
+[2018.02.11-19.24.27:517][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/IdleAnimation.uasset
+[2018.02.11-19.24.27:554][649]LogSavePackage: Save=20.57ms
+[2018.02.11-19.24.27:554][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/2DCharacter_RunAnimAtlas70077BD148B73BA0936FB6BE2D2F384F.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset'
+[2018.02.11-19.24.27:571][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset
+[2018.02.11-19.24.27:603][649]LogSavePackage: Save=12.10ms
+[2018.02.11-19.24.27:604][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_134E37020401FF384192D2D9FC32A8115.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset'
+[2018.02.11-19.24.27:616][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset
+[2018.02.11-19.24.27:647][649]LogSavePackage: Save=13.05ms
+[2018.02.11-19.24.27:648][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_1027B8960F4975A0DA7EFEB2AA129F2626.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset'
+[2018.02.11-19.24.27:662][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset
+[2018.02.11-19.24.27:694][649]LogSavePackage: Save=13.12ms
+[2018.02.11-19.24.27:694][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_1183DFC2F54D0E21740583F4B5114866C4.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset'
+[2018.02.11-19.24.27:705][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset
+[2018.02.11-19.24.27:735][649]LogSavePackage: Save=12.34ms
+[2018.02.11-19.24.27:735][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_129F132E8440C0ED3FA4AE65AAC2A8A2D3.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset'
+[2018.02.11-19.24.27:748][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset
+[2018.02.11-19.24.27:777][649]LogSavePackage: Save=13.59ms
+[2018.02.11-19.24.27:777][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_13115D107147515CABD99E528F37AD7718.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_13.uasset'
+[2018.02.11-19.24.27:789][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_13.uasset
+[2018.02.11-19.24.27:818][649]LogSavePackage: Save=12.72ms
+[2018.02.11-19.24.27:818][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_147B2DDDA2463026DE26A318AF46ED6927.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_14.uasset'
+[2018.02.11-19.24.27:835][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_14.uasset
+[2018.02.11-19.24.27:864][649]LogSavePackage: Save=12.40ms
+[2018.02.11-19.24.27:864][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_154192F8554E34E9602E926A948A3AB731.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_15.uasset'
+[2018.02.11-19.24.27:880][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_15.uasset
+[2018.02.11-19.24.27:910][649]LogSavePackage: Save=13.52ms
+[2018.02.11-19.24.27:910][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_1653AA6B9A44E808320AFA389A1F1FBEA7.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_16.uasset'
+[2018.02.11-19.24.27:922][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_16.uasset
+[2018.02.11-19.24.27:951][649]LogSavePackage: Save=11.90ms
+[2018.02.11-19.24.27:951][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_2100E772D4C25E729C0281AA6341E36F1.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_2.uasset'
+[2018.02.11-19.24.27:970][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_2.uasset
+[2018.02.11-19.24.27:999][649]LogSavePackage: Save=12.60ms
+[2018.02.11-19.24.27:999][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_3AFD2A83943D612726E7ECF839CD86F65.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_3.uasset'
+[2018.02.11-19.24.28:011][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_3.uasset
+[2018.02.11-19.24.28:040][649]LogSavePackage: Save=12.16ms
+[2018.02.11-19.24.28:040][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_4F6DD2C1E4C1E09DE86035B82EB624402.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_4.uasset'
+[2018.02.11-19.24.28:052][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_4.uasset
+[2018.02.11-19.24.28:080][649]LogSavePackage: Save=12.42ms
+[2018.02.11-19.24.28:081][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_5A181C15640D27FEAE631F1ABCEC13ECC.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_5.uasset'
+[2018.02.11-19.24.28:097][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_5.uasset
+[2018.02.11-19.24.28:126][649]LogSavePackage: Save=12.51ms
+[2018.02.11-19.24.28:126][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_662221A3B420B36EAC20C2BBE8FDD472E.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_6.uasset'
+[2018.02.11-19.24.28:143][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_6.uasset
+[2018.02.11-19.24.28:171][649]LogSavePackage: Save=12.16ms
+[2018.02.11-19.24.28:172][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_7AD78B77347D5C6FCB1D5C0BF5D4482F3.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_7.uasset'
+[2018.02.11-19.24.28:183][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_7.uasset
+[2018.02.11-19.24.28:212][649]LogSavePackage: Save=12.20ms
+[2018.02.11-19.24.28:212][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_8F73F39684E79FC414AB0408ACE866606.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_8.uasset'
+[2018.02.11-19.24.28:230][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_8.uasset
+[2018.02.11-19.24.28:269][649]LogSavePackage: Save=18.54ms
+[2018.02.11-19.24.28:269][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunCycle_97D363AE74ABF5840AFE3628A1391E144.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_9.uasset'
+[2018.02.11-19.24.28:282][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunFrames/RunCycle_9.uasset
+[2018.02.11-19.24.28:340][649]LogSavePackage: Save=23.87ms
+[2018.02.11-19.24.28:340][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/RunningAnimation2C3697654A144DA8E85908BED74BFB7F.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunningAnimation.uasset'
+[2018.02.11-19.24.28:357][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/RunningAnimation.uasset
+[2018.02.11-19.24.28:398][649]LogSavePackage: Save=15.13ms
+[2018.02.11-19.24.28:398][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/2DBackgroundE481384E4390068F013B83A521BE9B6E.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DBackground.uasset'
+[2018.02.11-19.24.28:411][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DBackground.uasset
+[2018.02.11-19.24.28:439][649]LogSavePackage: Save=12.43ms
+[2018.02.11-19.24.28:439][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Background_SpriteC34FAF5F43CB63D4B388C89902863317.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/Background_Sprite.uasset'
+[2018.02.11-19.24.28:451][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/Background_Sprite.uasset
+[2018.02.11-19.24.28:477][649]LogSavePackage: Save=10.15ms
+[2018.02.11-19.24.28:478][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/2DBackgroundBlockAtlas60D20A8D485ABABFCD5C998FAA49C461.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset'
+[2018.02.11-19.24.28:489][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset
+[2018.02.11-19.24.28:518][649]LogSavePackage: Save=11.01ms
+[2018.02.11-19.24.28:518][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Ledge5CDB991B4B873694BF7EF28B1C4E9E68.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/Ledge.uasset'
+[2018.02.11-19.24.28:530][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/Ledge.uasset
+[2018.02.11-19.24.28:611][649]LogSavePackage: Save=10.16ms
+[2018.02.11-19.24.28:611][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/PrototypingSprite704CDBF14343AF78174D50ADEA86BE96.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/PrototypingSprite.uasset'
+[2018.02.11-19.24.28:626][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Sprites/PrototypingSprite.uasset
+[2018.02.11-19.24.28:651][649]LogSavePackage: Save=8.90ms
+[2018.02.11-19.24.28:651][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/2DBackgroundTileE6FA7D834DC92BE7B48DFD874C7E170A.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DBackgroundTile.uasset'
+[2018.02.11-19.24.28:666][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Textures/2DBackgroundTile.uasset
+[2018.02.11-19.24.28:758][649]LogSavePackage: Save=19.09ms
+[2018.02.11-19.24.28:758][649]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/PrototypingSpriteMaterial0B08DAB644BE2A45E17484975DA57D25.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset'
+[2018.02.11-19.24.28:773][649]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset
+[2018.02.11-19.25.16:556][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Font/Q-bert_Original.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.16:879][142]LogSlate: Took 0.000546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-19.25.16:909][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Font/Q-bert_Original_Font.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.16:939][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Level/GamePlayScene.umap'. Unknown extension 'umap'.
+[2018.02.11-19.25.16:975][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Bonk_to_the_Head.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:007][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Bye_Bye.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:041][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Coily_Bites.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:075][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Coily_Hops.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:106][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Coily_Over_the_edge.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:146][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Extra_Qbert.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:200][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Game_Start_Music.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:256][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Insert_a_Coin.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:325][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Over_The_Edge.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:401][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Qbert_Hops.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:488][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Ride_the_disk.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:584][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/Swears.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:679][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sounds/_____.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:775][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Arcade_-_QBert_-_General_Sprites.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:874][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.17:976][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.18:091][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.18:207][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.18:323][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_12.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.18:445][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_13.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.18:567][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_14.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.18:691][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_15.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.18:823][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_16.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.18:955][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_17.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.19:086][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_18.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.19:218][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_19.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.19:347][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.19:479][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_20.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.19:620][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_21.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.19:753][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_22.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.19:885][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_23.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.20:022][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_24.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.20:162][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_25.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.20:301][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_26.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.20:451][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.20:597][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.20:738][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.20:881][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.21:025][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.21:175][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.21:322][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/ChangeToCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.21:470][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.21:622][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.21:768][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.21:909][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.22:050][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.22:194][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.22:321][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.22:441][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.22:555][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.22:661][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.22:765][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.22:861][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackBlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.22:968][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:069][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:166][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:258][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:352][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:448][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:545][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:640][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:738][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:839][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.23:941][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.24:052][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/BlackCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.24:166][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.24:282][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.24:389][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.24:491][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.24:593][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.24:708][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.24:819][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.24:930][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.25:041][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.25:151][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.25:262][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.25:386][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/DarkGreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.25:501][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.25:621][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.25:740][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.25:858][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.25:978][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.26:086][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.26:197][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.26:309][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.26:437][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.26:556][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.26:687][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.26:801][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GoldenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.26:916][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.27:025][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.27:147][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.27:255][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.27:364][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.27:474][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.27:585][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.27:699][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.27:815][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.27:928][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.28:041][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.28:154][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreenCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.28:264][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.28:374][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.28:481][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.28:592][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.28:699][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.28:811][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.28:924][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.29:038][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.29:153][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.29:265][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.29:381][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.29:496][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/GreyCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.29:605][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.29:714][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.29:818][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.29:922][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.30:030][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.30:137][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.30:247][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.30:354][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.30:468][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.30:581][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.30:698][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.30:807][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/OrangeCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.30:924][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.31:044][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.31:151][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.31:264][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.31:372][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.31:478][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.31:598][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.31:709][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.31:846][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.31:955][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.32:071][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.32:181][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/PurpleCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.32:286][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.32:406][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.32:517][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.32:629][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.32:735][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.32:839][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.32:949][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.33:056][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.33:170][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.33:280][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.33:390][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.33:500][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Cubes/YellowBlueCubes/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.33:611][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Balls/Arcade_-_QBert_-_General_Sprites_Sprite_12.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.33:715][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Balls/Arcade_-_QBert_-_General_Sprites_Sprite_13.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.33:828][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Balls/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.33:933][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Balls/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.34:039][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Coily/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.34:148][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Coily/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.34:260][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Coily/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.34:372][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Coily/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.34:485][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Coily/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.34:599][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Coily/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.34:705][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Coily/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.34:814][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Coily/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.34:916][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/PurpleUknownChar/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:026][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/PurpleUknownChar/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:130][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/PurpleUknownChar/Arcade_-_QBert_-_General_Sprites_Sprite_12.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:236][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/PurpleUknownChar/Arcade_-_QBert_-_General_Sprites_Sprite_13.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:336][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/PurpleUknownChar/Arcade_-_QBert_-_General_Sprites_Sprite_14.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:438][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/PurpleUknownChar/Arcade_-_QBert_-_General_Sprites_Sprite_15.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:546][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/PurpleUknownChar/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:653][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/PurpleUknownChar/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:757][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_16.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:862][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_17.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.35:966][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_18.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.36:068][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_19.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.36:173][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_20.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.36:275][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_21.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.36:379][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_22.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.36:484][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_23.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.36:584][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_24.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.36:690][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_25.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.36:801][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_26.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.36:903][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_27.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:006][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_28.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:109][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_29.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:209][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_30.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:313][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/SlickAndSam/Arcade_-_QBert_-_General_Sprites_Sprite_31.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:416][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:519][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:621][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:717][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:808][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_12.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:901][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_13.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.37:998][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_14.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:091][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_15.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:188][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:288][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:388][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:491][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:595][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:695][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:797][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:895][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Enemies_Hazzards/Ugg_WrongWay/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.38:988][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.39:084][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.39:175][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.39:272][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.39:370][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.39:473][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.39:575][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.39:682][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.39:786][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.39:896][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:006][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:116][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PlayerUIText/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:223][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:330][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:439][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:555][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:665][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_10.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:769][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_11.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:876][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_12.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.40:981][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_13.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.41:088][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_14.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.41:197][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_15.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.41:309][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_16.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.41:430][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_17.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.41:539][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_18.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.41:649][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_19.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.41:758][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.41:875][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_20.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.41:986][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_21.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.42:097][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_22.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.42:202][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_23.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.42:309][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_24.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.42:425][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_25.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.42:539][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_26.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.42:647][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_27.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.42:758][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_28.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.42:870][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_29.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.42:980][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.43:088][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_30.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.43:196][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_31.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.43:303][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_32.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.43:412][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_33.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.43:518][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_34.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.43:628][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_35.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.43:739][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_36.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.43:854][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_37.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.43:963][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_38.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.44:068][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_39.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.44:175][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.44:282][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_40.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.44:390][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_41.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.44:494][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_42.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.44:598][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_43.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.44:700][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_44.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.44:806][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_45.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.44:918][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_46.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:027][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_47.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:139][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_48.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:241][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_49.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:348][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:451][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_50.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:556][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_51.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:655][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_52.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:753][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_53.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:848][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_54.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.45:947][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_55.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.46:052][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_56.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.46:158][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_57.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.46:262][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_58.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.46:369][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_59.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.46:477][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.46:594][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_60.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.46:701][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_61.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.46:803][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_62.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.46:909][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_63.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:021][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_64.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:124][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_65.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:230][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_66.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:345][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_67.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:458][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_68.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:563][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_69.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:666][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:773][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_70.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:882][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_71.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.47:985][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_72.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.48:083][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_73.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.48:183][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_74.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.48:280][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_75.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.48:396][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_76.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.48:500][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_77.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.48:606][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_78.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.48:713][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_79.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.48:820][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_8.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.48:929][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_80.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:034][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_81.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:142][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_82.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:243][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_83.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:342][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_84.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:446][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_85.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:552][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_86.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:659][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_87.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:764][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_88.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:869][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_89.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.49:977][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/PowerUp_Discs/Discs/Arcade_-_QBert_-_General_Sprites_Sprite_9.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.50:080][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Qbert/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.50:186][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Qbert/Arcade_-_QBert_-_General_Sprites_Sprite_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.50:292][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Qbert/Arcade_-_QBert_-_General_Sprites_Sprite_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.50:397][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Qbert/Arcade_-_QBert_-_General_Sprites_Sprite_3.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.50:498][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Qbert/Arcade_-_QBert_-_General_Sprites_Sprite_4.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.50:604][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Qbert/Arcade_-_QBert_-_General_Sprites_Sprite_5.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.50:706][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Qbert/Arcade_-_QBert_-_General_Sprites_Sprite_6.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.50:808][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/Qbert/Arcade_-_QBert_-_General_Sprites_Sprite_7.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.50:912][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/Arcade_-_QBert_-_General_Sprites_Sprite_0.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.51:012][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/ArrowLeft.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.51:113][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/ArrowRight.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.51:213][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/ChangeToText.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.51:315][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/CurseBubble.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.51:420][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/LevelUI.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.51:528][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/LivesUI.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.51:636][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/PlayerNumber_1.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.51:744][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/PlayerNumber_2.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.25.51:857][142]LogAssetTools: Warning: Failed to import 'C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\QBert_ProjectFail\Content\QBertFolders/Sprites/UI/RoundUI.uasset'. Unknown extension 'uasset'.
+[2018.02.11-19.26.43:894][ 20]LightingResults: New page: Lighting Build
+[2018.02.11-19.26.43:896][ 20]MapCheck: New page: Map Check
+[2018.02.11-19.26.43:896][ 20]LightingResults: New page: Lighting Build
+[2018.02.11-19.26.43:906][ 20]LogAIModule: Creating AISystem for world Untitled
+[2018.02.11-19.26.43:919][ 20]LoadErrors: New page: New Map
+[2018.02.11-19.26.43:932][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/IdleAnimation'
+[2018.02.11-19.26.43:933][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/IdleAnimation' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.
+[2018.02.11-19.26.43:934][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/RunningAnimation'
+[2018.02.11-19.26.43:934][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/RunningAnimation' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.
+[2018.02.11-19.26.43:935][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/IdleAnimation'
+[2018.02.11-19.26.43:935][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/IdleAnimation' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.
+[2018.02.11-19.26.43:936][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/RunningAnimation'
+[2018.02.11-19.26.43:936][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/RunningAnimation' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.
+[2018.02.11-19.26.43:957][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.11-19.26.43:957][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.26.43:958][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:958][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.26.43:961][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.11-19.26.43:962][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.26.43:962][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:962][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.26.43:965][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.11-19.26.43:965][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading NULL.
+[2018.02.11-19.26.43:966][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:966][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:967][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.11-19.26.43:967][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading NULL.
+[2018.02.11-19.26.43:967][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:968][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:971][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.11-19.26.43:972][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading NULL.
+[2018.02.11-19.26.43:972][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:972][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:973][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:973][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:974][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:974][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:975][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:975][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:975][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:976][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:976][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:977][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:977][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:978][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:978][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:978][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:979][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:979][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:980][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:980][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:981][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:982][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:982][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:983][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:983][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:984][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:984][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:984][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:985][ 20]LogLinker: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.26.43:985][ 20]LogLinker: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading NULL.
+[2018.02.11-19.26.43:987][ 20]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.02.11-19.26.44:208][ 20]LogMaterial: Missing cached shader map for material PrototypingSpriteMaterial, compiling. 
+[2018.02.11-19.26.44:209][ 20]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/2DSideScroller/Materials/PrototypingSpriteMaterial.PrototypingSpriteMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-19.26.44:209][ 20]LogMaterial: Warning: 	(Node TextureSampleParameter2D) This param gets replaced with the sprite source texture> Requires Texture2D
+[2018.02.11-19.26.46:172][ 20]LogSlate: Took 0.000421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.11-19.27.08:209][343]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.11-19.27.08:217][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.11-19.27.08:217][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:217][343]LoadErrors: Error: /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap : Can't find file for asset. /Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter
+[2018.02.11-19.27.08:218][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.11-19.27.08:218][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:219][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.11-19.27.08:220][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:220][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.02.11-19.27.08:221][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:221][343]LoadErrors: Error: /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap : Can't find file for asset. /Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode
+[2018.02.11-19.27.08:222][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.11-19.27.08:222][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:223][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.11-19.27.08:223][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:224][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.11-19.27.08:224][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:240][343]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.11-19.27.08:240][343]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:241][343]LoadErrors: Error: /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap : Can't find file for asset. /Game/2DSideScroller/Sprites/Background_Sprite
+[2018.02.11-19.27.08:241][343]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.27.08:242][343]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:242][343]LoadErrors: Error: /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap : Can't find file for asset. /Game/2DSideScroller/Sprites/Ledge
+[2018.02.11-19.27.08:242][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.11-19.27.08:243][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:243][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.02.11-19.27.08:244][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:244][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.11-19.27.08:245][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:245][343]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Background_Sprite'
+[2018.02.11-19.27.08:246][343]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Background_Sprite' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:246][343]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/Ledge'
+[2018.02.11-19.27.08:247][343]LogLinker: Warning: Can't find file for asset '/Game/2DSideScroller/Sprites/Ledge' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:247][343]LogLinker: Warning: Can't find file '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2018.02.11-19.27.08:248][343]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter' while loading C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap.
+[2018.02.11-19.27.08:250][343]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_BuiltData'
+[2018.02.11-19.29.34:612][916]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\spawn\Desktop\GeorgeBrown courses\Winter 2018\GAME2030 GAME PRODUCTION IV\Font\Q-bert Original.ttf)
+[2018.02.11-19.29.38:767][917]LogSlate: Took 0.184274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.02.11-19.29.38:768][917]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.02.11-19.29.38:771][917]LogSlate: Took 0.000772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.11-19.29.38:775][917]LogSlate: Took 0.000599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.11-19.29.38:780][917]LogSlate: Took 0.000548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.11-19.29.38:782][917]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-19.29.53:303][499]LogSlate: Took 0.000528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-19.29.57:740][499]LightingResults: New page: Lighting Build
+[2018.02.11-19.29.57:741][499]LoadErrors: New page: Loading map: MainLevel.umap
+[2018.02.11-19.29.57:745][499]MapCheck: New page: Map Check
+[2018.02.11-19.29.57:745][499]LightingResults: New page: Lighting Build
+[2018.02.11-19.29.57:801][499]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.11-19.29.57:803][499]LogAIModule: Creating AISystem for world MainLevel
+[2018.02.11-19.29.57:855][499]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.11-19.29.57:978][499]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.298ms to complete.
+[2018.02.11-19.29.57:979][499]LogSlate: Took 0.000518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.11-19.29.57:982][499]LogFileHelpers: Loading map 'MainLevel' took 0.244
+[2018.02.11-19.30.08:763][717]LogSavePackage: Save=13.16ms
+[2018.02.11-19.30.08:763][717]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/MainLevelCA84C44A402DBA64A3C13AA77395839A.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Level/MainLevel.umap'
+[2018.02.11-19.30.08:774][717]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Level/MainLevel.umap
+[2018.02.11-19.30.12:032][  3]LogSavePackage: Save=8.05ms
+[2018.02.11-19.30.12:032][  3]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Q-bert_Original_FontF986851E4B3840B89A4A669C4B9B0660.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Font/Q-bert_Original_Font.uasset'
+[2018.02.11-19.30.12:047][  3]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Font/Q-bert_Original_Font.uasset
+[2018.02.11-19.30.12:062][  3]LogSavePackage: Save=5.32ms
+[2018.02.11-19.30.12:063][  3]LogSavePackage: Moving 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Saved/Q-bert_OriginalF7A8356946D798C3E93AF58AD6872906.tmp' to 'C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Font/Q-bert_Original.uasset'
+[2018.02.11-19.30.12:074][  3]LogSavePackage: Display: Finished SavePackage C:/Users/spawn/Desktop/GeorgeBrown courses/Winter 2018/GAME2030 GAME PRODUCTION IV/QBert_Project/QBert_Project/Content/QBertFolders/Font/Q-bert_Original.uasset
+[2018.02.11-19.30.12:663][  3]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.568 s
+[2018.02.11-19.30.12:664][  3]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.11-19.30.12:664][  3]LogOutputDevice: Error: 
+[2018.02.11-19.30.12:664][  3]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage.cpp] [Line: 4411]
+[2018.02.11-19.30.12:664][  3]LogOutputDevice: Error: Attempting to save a map package '/Game/StarterContent/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' that does not contain a map object.
+[2018.02.11-19.30.12:664][  3]LogOutputDevice: Error: Stack: 
+[2018.02.11-19.30.12:664][  3]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000004C223E36
+[2018.02.11-19.30.12:664][  3]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000004BFAC2D2
+[2018.02.11-19.30.12:664][  3]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000004BFC4746
+[2018.02.11-19.30.12:664][  3]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000004BAD6789
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000045FE493D
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000045FE5388
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000046020380
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004601CDD8
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000046895309
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000463149A0
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000463415CA
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000046314EE8
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000046355943
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-MainFrame.dll!0x00000000346A02F9
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-MainFrame.dll!0x0000000034688737
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047D353FF
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047E38FC2
+[2018.02.11-19.30.12:665][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047E3F368
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047D96522
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047D979B9
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047E16265
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047ECB967
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047EF74D4
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047E4153D
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047D142BC
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047CE7145
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047D81452
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047D69C92
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000047D5B68F
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000004C1FB759
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000004C1E3EE1
+[2018.02.11-19.30.12:666][  3]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000004C1FD5BB
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000004C1DF042
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: USER32.dll!0x00000000A435B85D
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: USER32.dll!0x00000000A435B1EF
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000004C1FDCC6
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: UE4Editor.exe!0x0000000053354BE2
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: UE4Editor.exe!0x0000000053363970
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: UE4Editor.exe!0x00000000533639EA
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: UE4Editor.exe!0x00000000533702D9
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: UE4Editor.exe!0x0000000053371C47
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: KERNEL32.DLL!0x00000000A41E1FE4
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: ntdll.dll!0x00000000A4A7EFB1
+[2018.02.11-19.30.12:667][  3]LogOutputDevice: Error: 
+[2018.02.11-19.30.12:678][  3]LogStats:                SubmitErrorReport -  0.000 s

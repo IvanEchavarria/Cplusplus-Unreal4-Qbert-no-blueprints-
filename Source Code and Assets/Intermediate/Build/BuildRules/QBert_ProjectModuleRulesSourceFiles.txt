@@ -1,0 +1,3 @@
+C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Source\QBert_Project\QBert_Project.Build.cs
+C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Source\QBert_Project.Target.cs
+C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Source\QBert_ProjectEditor.Target.cs

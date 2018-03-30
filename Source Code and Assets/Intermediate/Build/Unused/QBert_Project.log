@@ -1,0 +1,17 @@
+﻿  Compiling game modules for hot reload
+  Parsing headers for QBert_ProjectEditor
+    Running UnrealHeaderTool "C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\QBert_Project.uproject" "C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\QBert_ProjectEditor\Development\QBert_ProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for QBert_ProjectEditor in 9.101659 seconds
+  Performing 8 actions (4 in parallel)
+  MainMenuHUD.gen.cpp
+  MainMenuHUD.cpp
+  MainGameMode.gen.cpp
+  DummyInputPawn.gen.cpp
+  MainGameMode.cpp
+  DummyInputPawn.cpp
+  [7/8] Link UE4Editor-QBert_Project-5275.dll
+  [8/8] Link UE4Editor-QBert_Project-5275.lib
+     Creating library C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-5275.suppressed.lib and object C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-5275.suppressed.exp
+     Creating library C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-5275.lib and object C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-5275.exp
+  Deploying QBert_ProjectEditor Win64 Development...
+  Total build time: 110.31 seconds (Local executor: 91.47 seconds)

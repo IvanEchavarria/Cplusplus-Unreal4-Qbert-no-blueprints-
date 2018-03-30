@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\QBert_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8E3C8B77-21A6-489A-8D99-7266130E9437}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\QBert_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\QBert_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7F6829FE-D003-4BD2-9A8E-ACDFA2E2C8D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\QBert_Project">
+      <UniqueIdentifier>{C6A22FBD-4C6E-48D3-9850-B582AF912F27}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\QBert_Project\QBERTGameMode.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QBert_Project\QBERTGameMode.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\QBert_Project\QBert_Project.Build.cs">
+      <Filter>Source\QBert_Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\QBert_Project\QBert_Project.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QBert_Project\QBert_Project.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\QBert_Project\Qbert.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\Cube.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\UIElements.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\RedBall.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\GreenBall.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\Elevator.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\Coily.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\MainGameMode.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\MainMenuHUD.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\DummyInputPawn.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\QBert_Project\LeaderBoardSave.h">
+      <Filter>Source\QBert_Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\QBert_Project\Qbert.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\Cube.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\UIElements.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\RedBall.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\GreenBall.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\Elevator.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\Coily.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\MainGameMode.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\MainMenuHUD.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\DummyInputPawn.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\QBert_Project\LeaderBoardSave.cpp">
+      <Filter>Source\QBert_Project</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

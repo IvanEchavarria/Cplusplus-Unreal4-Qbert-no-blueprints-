@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-QBert_Project-9704.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\Coily.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\Cube.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\DummyInputPawn.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\Elevator.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\GreenBall.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\LeaderBoardSave.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\MainGameMode.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\MainMenuHUD.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\Qbert.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\QBERTGameMode.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\QBert_Project.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\RedBall.cpp.obj"
+"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\UIElements.cpp.obj"
+"D:\Unreal Engine\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\QBert_Project\PCLaunch.rc.res"
+"D:\Unreal Engine\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\spawn\Desktop\GBC\W2018\GAME2030\QBert_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QBert_Project-9704.lib"
